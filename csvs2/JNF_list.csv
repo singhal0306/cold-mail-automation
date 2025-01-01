@@ -1,0 +1,293 @@
+sr_no,company_name,status,contact_person,contact_no,email_id,ctc
+1,Fico,OPEN,"Ramakrishnan KJ, Kavitha R","9901655441, 9686824938","ramakrishnankj@fico.com, kavithar@fico.com",10
+2,Truminds,OPEN,Priyansha Arora,9643602027,priyansha.arora@truminds.com,11
+3,Enerzinx Technology,OPEN,"Mubeena Nadarsha, Vishwagnachri TR","9880789937, 9164374726","mubeena.nadarsha@enerzinx.com, vishwagnachari.tr@enerzinx.com",10.12
+4,Amantya Technology,CLOSE,"Pooja Jassy, Mamta Yadav","8527354878, 7838141418","pooja.jassy@amantyatech.com, mamta.yadav@amantyatech.com",8
+5,Winzo Games,CLOSE,"Rahul Gera, Abhishek Shome","80030039339, 7838146692","rahul.gera@winzogames.com, abhishek.shome@winzogames.com",22
+6,Natwest Group,OPEN,Rashi Raj,9711952504,rashi.raj@natwest.com,14
+7,Growth Natives,OPEN,"Sakshi  Thakur, Geeta patial","8427753911, 8427663376","shakshi.thakur@growthnatives.com, geeta.patial@growthnatives.com",upto 11.00
+8,PolariseMe,OPEN,Samiksh Gutpa,8288904097,samiksha.gupta@polariseme.com,6.6
+9,Cvent India Pvt. ltd.,CLOSE,Abhay yadav,9289181666,abhay.yadav@cevent.com,1496645
+10,ION Group,OPEN,Akanksha Kapoor,9999393736,akanksha.kapoor@iongroup.com,14
+11,Himalayan Group,OPEN,"Mannat Bansal, Harish Mahendru","7807880351, 9992500282","mannatbansal@hgpi.in, director_hiet@hgpi.in",7.00-10.00
+13,Learning Routes.,OPEN,"Vaishali Thakur, Deepshikha Sharma","7009659620, 8655869199","deepshikha.s@learningroutes.in, vaishali.t@learningroutes.in",6.06
+14,Tata AIG General Insaurance,CLOSE,"Harshita Kothari, Lakshita Pabuwal","8078658210, 7023685283","harshita1.kothari@tataaig.com, lakshita.pabuwal@tataaig.com",9
+15,Slideuplift,OPEN,Vivek Pawar,8087222983,phrogaccounts@phrogapp.com,3.00-5.00
+16,Neenopal Inc.,OPEN,"Lavi Srivastava, betsy.T. Abraham","8630806108, 9773692198","lavi.srivastava@neenopal.com, betsy.abraham@neenopal.com",9
+17,Tummee,OPEN,Supriya Kotini,9980782194,supriya@tummee.com,11.6
+18,Intellect Design Arena,OPEN,Vikram Dasarathan,9884633999,"vikram.dasarathan@intellectdesign.com",5
+19,Unistring Tech Solutions Pvt. ltd.,OPEN,"Vishnu Prasad, Veda Devi","8341787360, 9032690224","vishuprasad@unistring.com, vedadevi.uts@gmail.com",6.00-8.00
+20,Effiya Technology,CLOSE,"Neha Rana, Meetu Gupat",9310418468,"nr1@sutra-management.com, hr@sutra-management.com",11.52
+21,NO Broker Pvt. technologies Ltd.,OPEN,Sai Thanmai Potla,8919654649,saithanmai.potla@nobroker.in,4.8
+22,ProcDNA Analytics Pvt. ltd.,CLOSE,"Muskan Garg, Sonam Tanwar",8076317599,"muskan.garg@procdna.com, Sonam.tanwar@procdna.com",15
+23,Augment Systems Pvt. Ltd.,OPEN,"Urvi Kumar, Shyamal Kaushik","9899811093, 8486190922","careers@augmentsys.com, shyamal@urgenthomework.com",3.6
+24,Hyperdart Technology Pvt. ltd.,OPEN,Charu,9873767090,charu.sharma@hyperdart.com,7.5
+25,Kalvium,OPEN,Merlin Jayasingh,7339221379,merlin@kalvium.com,7
+26,John Deere India Pvt. Ltd.,CLOSE,"Kalpesh Londhe, Sunil Saini","9766660354, 9307130780","londhekalpesh@johndeere.com, sainisunil@johndeere.com",11
+27,Axtria,OPEN,Siddharth Anand,9818151239,campusplacement@axtria.com,13.5
+28,ISGEC Heavy Engineering,OPEN,"DN Mishra, DK Jain","8930111854, ","training ynr@isgec.com, dkjain@isgec.com",8.26
+29,Yamaha Motor Solutions,CLOSE,Surender Singh,9540088088,surenders@yamaha-motor-india.com,10.3
+30,MIET,OPEN,"Sanjay Vashisth, Sonal Ahlawat","9897345345, 9528770179","sanjay.vashisth@miet.ac.in, sonal.ahlawat@miet.ac.in",3.60-4.72
+31,Global HR Associated,OPEN,Deepali,8178686684,contact@globalhrassociates.com,5.5
+32,Winjit Technology,OPEN,Anisha,9607776495,anishag@winjit.com,12
+33,Airtel,CLOSE,Deepti Yadav,9667265931,deepti1.yadav@airtel.com,14.75
+34,Qbit Labs Pvt. Ltd.,OPEN,"Jiya Gautam, Anjali Sharma","9667138067, 9140224203","jiya.gautam@qbitlabs.co.in, analai.sharma@qbitlabs.co.in",9.33
+35,Vestas Technology Pvt. Ltd.,OPEN,"Rashika Sharma, Rinsy Backer","8510940122, 9880970626","rashika.sharma@zetapp.in, rinsy.backer@zetapp.in",18
+36,eLitmus Evaluation Pvt. ltd.,OPEN,Shashank Sahu,7004722265,shashank.sahu@elitmus.ocm,8
+37,Learning Routes. Sr. No 13,OPEN,"Deepshikha Sharma, Vaishali Thakur","7009659620, 8655869199","deepshikha.s@learningroutes.in, vaishali.t@learningroutes.in",6.06
+38,Amdocs,CLOSE,Adita Chatterjee,8446997731,adita.chatterjee@amdocs.com,10
+39,Aryaka Networks ,CLOSE,Bandi Karthik,9740876712,bandi.karthik@aryaka.com,12
+40,Anora Instrumentation Pvt. Ltd.,OPEN,"Krithika P. , Jasindra T.",,"campus@anoralabs.com, jasinddra@anoralabs.com",4.00-6.00
+41,Jubliant Works,CLOSE,Abhijeet Rasgotra,9958855921,abhijeet.rasgotra@jublfood.com,8.27
+42,Varroc Burah,OPEN,"Isha Vispute, Deepika Verma","9028554526, 9607975241","isha.vispute@varroc.com, deepika.verma@varroc.com",10.00-12.00
+43,Newgen Software,OPEN,Harshita Sahdev,7982524253,harshita.sahdev@newgensoftware.com,9.00-11.00
+44,Infinity Learn,OPEN,"Amala Pujita, Lavanya Pedada","9849535117, 9652157978","amala.pujitha@infinitylearn.com, lavanya.pedada@infinitylearn.com",7.00-10.00
+45,Amit Engineers Nimbua,OPEN,"Vikas , Deepak Dangi","9779991106, 9992755522","dr.vikas@aerail.in, projects@amitengineersbaddi.com",4.20-5.00
+46,Indus Valley Partners,OPEN,Palak Sachdeva,9818148999,psachdeva.iv.in,7.5
+47,rtCamp Solutions Pvt. Ltd.,OPEN,Aanchal Singh,,campus@rtcamp.com,6
+48,Calance Software Pvt. Ltd.,OPEN,Gurjeet Kaur,7500071559,gkaur@calance.com,8
+49,Synopsys India Pvt. Ltd.,CLOSE,Asha Ramchandran,7207910978,asha.ramachandran@synopsys.co ,22
+50,"Merlytics, an Accordion Company",OPEN,"Vivek Joshi, Krishna Prashant Raju","8886089296, 9581319028","vivek_joshi@merilytics.com, krishna_raju@merilytics.com",8.5
+51,IntelliSmart Infrastructrure Pvt. ltd.,OPEN,Dr. Richa Rao,9818478767,richa.rao@intellismartinfra.in,5.3
+52,"Anglo-Eastern Ship Management Ltd. Hong, Kong",OPEN,Rishi Raj Rana,9811249852,ranar@angloeastern.com,3.60-5.00
+53,Dover ,CLOSE,Atul Kumar Singh,9972838838,asingh9@dovercorp.com,
+55,"C-DAC,Bangalore",OPEN,Binu George,9448884138,binu@cadc.in,
+56,Unicommerce,OPEN,Karan Sharma,9808186450,karan.sharma@unicommerce.com,8
+57,Kratikal Tech Pvt. Ltd.,OPEN,"HR, Jagrtit Satija","9289035153, 8130337830","hr@kratikal.com, jagriti.satija@kratikal.com",8
+58,Genpact,CLOSE,Ramanathan,9659230778,ramanathan.subramaniyan@genpact.com,11
+59,Arinsinvesting Technology Pvt. Ltd.,OPEN,Sneha,7021756566,sneha.chovatiya@arisinvesting.com,
+60,Toshiba Software India Pvt. Ltd.,CLOSE,Lokesh Kumar,9980513170,lokeshkumar.chandrasekar@toshiba-tsip.com,10.5
+61,Hughes Systique,CLOSE,"Suchetra Chauhan, Shilpa Mitra Roy","9899751567, 9999769073","sucheta.chauhan@hsc.com, shilpa.roy@hsc.com",10.6
+62,LAM Research,OPEN,"Briju bopanna, Sonali Sahoo",9686281950,"brijubopanna.chodumadasubbaiah@lamresearch.com, snali.sahoo@hirepro.in",22.6
+63,MyWays Life Layout Pvt. LTd.,OPEN,Preeti Karn,7669699297,preeti.k@myways.ai,8.00-12.00
+64,Jungleworks Software Pvt. Ltd.,OPEN,"HR, Alka Sharma, Priyanka Kaura","8699357361, 7009815009",hr@jungleworks.com,6
+65,InfoObject Software India Pvt. Ltd.,OPEN,"Paramveer Rajawat, Trisha Singh",7014635485,"prajawat@infoobjects.com, trisha@infoobject.com",6
+66,Techture Structures Pvt. Ltd.,OPEN,"Pooja Parekh, Anuja Tiwari","8085566717, 9130092841",hr@techture.global,4.5
+67,Samsung Semiconductor India Research,OPEN,"Priyanka Guruswamy, Naveen","99860006019, 9945280407","priyanka.g@samsung.com, nav.kumar@samsung.com",23.23
+68,ITC Limited,CLOSE,"Shivani Dhaka, Liju Pillai","7338697518, 9766516169","shivani.dhaka@itc.in, liju.lambodharanpillai@itc.in",12
+69,ZF Group,CLOSE,Rajan Kumar Singh,7207755169,rajankumar.singh@zf.com,9.25
+70,Contlo,OPEN,"Abhay Naik, Neha","6361311293, 9940912324","abhay@contlo.com, neha@contlo.com",18
+71,Morphle Labs,OPEN,Himanshu Rai,7218669866,himanshu@morphle.in,17.00-22.00
+72,Vardhman Textile Ltd.,OPEN,"Jasmeet Kaur, Neeraj Tripathi","8146626480, 8146626457","corphr13@varthman.com, neerajtripathi@varthman.com",3.3
+73,Technip,OPEN,"Pragya Srivastava, Meenakshi Alimchandani","8287799547, 9717788829","pragya.srivastava@external.technip, meenakshi.alimchandani@technipenergies.com",6.5
+74,Sirion Labs,OPEN,Dipannita Sur,9163304549,dipannita.sur@sirionlabs.com,13.63
+75,KPIT,OPEN,Kalyan K Arigela,9963545533,kalyan.arigela@kpit.com,6.5
+76,Trainz Digital,CLOSE,"Manjusha Shenoy, Vinay Vaishnav","9620413872, 9663677077","manjusha.shenoy@trianz.com, vinay.vaishnav@trainz.com",10
+77,Trinity Partners LLC,CLOSE,Uday Kanth G,9121066084,ukanthg@trinitypartners.com,
+78,Tredence Analytics,OPEN,"Nishant Christian, Sabareesh Nair","9535236750, 9148071285","nishant.christian@tredence.com, sabareesh.nair@tredence.com",
+79,Grazitti Interactive,OPEN,"Kavita Chugh, Shikha Gupta","7986504338, 9910030694","kavita.rani@grazitti.com, shikhag@grazitti.com",8.00-12.00
+80,Q3 Technology,CLOSE,Rajeeb Biswas,9810552971,rajeeb@q3tech.com,15
+81,S-Trude Technologies Pvt. Ltd,OPEN,"Sahil Cheema, Sharat Shashidharan","8411096277, 8884924034","sahil@snaptrude.com, sharat@snaptrude.com",
+82,Wipro,OPEN,Nahida Kouser,9513337165,nahida.kouser2@wipro.com,20
+83,Antino Labs,OPEN,"Disha Chahar, Ananya Shukla","9205675709, 9569256459","disha.chahar@antino.com/careers@antino.com , ananya.s@antino.com",6.5
+84,Accolite,OPEN,Rachna Sahani,9760235656,rachna.sahani@accolitedigita.com,8
+85,AB in Bev,OPEN,Abhinav Kumar,7829659053,abhinav.kumar@in.ab-inbev.com,15
+86,SAARTHEE - Actionable Insights,CLOSE,"Apurva bhattacharya, Roshni Kumari","8789288365, 8789351077","apurva.bhattacharya@saarthee.com, roshni.kumari@siemens.com",15
+87,SIEMENS,OPEN,"Ajay brahmbhatt, Trupti Dewoolkar","7045466935, 9004902885","ajay.brahmbhatt@siemens.com, trupti.dewoolkar.ext@siemens.com",9
+88,Larsen & Toubro Ltd.,CLOSE,Bhagyalakshme,8189996905,bhagyalakshme.narayanan2larsentoubro.com,6.25
+89,"Think Exam, AGinger Webs Company",OPEN,"Sneha Arora, Apurva Chhaparwal","8178955693, 9001549840","sneha.arora@gingerwebs.in, apurva.chhaparwal@gingerwebs.co.in",3
+90,Deltax,OPEN,Radhika Kumbhar,9137485970,radhika.k@deltax.com,7
+91,Schneider Electric,CLOSE,Vikram Goyal,7204089892,vikram.goyal@se.com,12.5
+92,Samsung,CLOSE,Ruby Kumari,8800910046,ruby.kumari@samsung.com,8
+93,Mathworks India Pvt. Ltd.,OPEN,Simran Sood,9561410171,simrans@mathworks.com,24
+94,Helium Consulting Pvt. Ltd.,OPEN,Mausam Gathutia,7909049940,hr@heliumconsulting.com,7
+95,Jindal Steel  Ltd,CLOSE,"Vikaram Singha, Aayush Khatri","9810102421, 9425948153","vikram.singh1@jindalstainless.com, ayush.khatri@jindalstainless.com",7
+96,Techmatrix consulting,OPEN,Praveen Kumar,9810382123,praveen.k@techmatrixconsulting.com,5
+97,Sprinklr,CLOSE,Pranjal Sharma,8287246687,pranjal.sharma@sprinklr.com,12
+98,PlanetSpark,OPEN,Akshat Bhagat,8582805912,akash.bhagat@planetspark.in,6.5-7.5
+99,Info edge,OPEN,Ishita Gupta,8081226785,ishita.gupta@naukri.com,12
+100,LG Electronics India Pvt. Ltd.,OPEN,"Dinesh Tewari, Puneet Dua","9811354376, 9899302972","dinesh.tewari@lge.com, puneet.dua@lge.com",9.6
+101,WSP Consultant India Pvt. Ltd.,OPEN,Madhur Bhatt,8126924244,madhur.bhatt@wsp.com,6.5
+102,Intellipaaat,OPEN,Manjunath. V,7676126889,manjunath.v@intellipaat.com,7.25
+103,Sun Life Global Solutions,OPEN,"Arjun Kumar Chatterjee, Ms Geeta Sharma","9821140905, 9899444454","arjun.chatterjee@sunlife.com, geeta.sharma@sunlife.com",7.25
+104,Fantaclaus Technologies Pvt. Ltd.,OPEN,"Sukrit Goel, Swati jain Goel","9005332211, 9717597378","sukrit@fantaclaus.com, swati@fantaclaus.com",6.5
+105,Brane Enterprises NSL Hub,OPEN,"Swathi koundinya, Aditi Rao","9652191393, 9177294639","swathi.k@braneenterprises.com, aditirao.manupadi@braneenterprises.com",13
+106,UsefulBL Pvt. Ltd.,CLOSE,"Niharika Srivastava, Nainy Jain",8527363233,"niharika.srivastava@usefulbi.com, nainy.jain@usefulbi.com",5.00-8.00
+107,MyWays Life Layout Pvt. LTd.,OPEN,Preeti Karn,7669699297,preeti.k@myways.ai,7.00-9.00
+108,Matte Motor Works,CLOSE,Tanya Singh,6291884929,tanya.singh@matter.in,7.5
+109,Tata Power,CLOSE,Anjali Gatti,7016524814,anjani.gatti@gmail.com,5.9
+110,Vista Consoles Electronics Pvt. Ltd.,CLOSE,Anushree,8229740173,anushree@vistaconsoles.in,8
+111,BML Munjal University,OPEN,"Maneek Kumar, Manish Gautam","8146553212, 8802007352","maneek.kumar@bmu.edu.in, manish.gautam@bmu.edu.in",12
+112,Tetrapak,OPEN,Sushanth Suvarna,9370629991,sushanth.suvarna@tetrapak.com,7
+113,Parul University,OPEN,Priti Jaiswal,9405652677,placement@paruluniversity.ac.in,
+114,Saint Gobain,OPEN,Prashant Bairagi,,prashant.bairagi@saint-gobain.com,5
+115,Global 13 Digital Pvt. Ltd.,OPEN,Raman Pahwa,9313411011,hr@globe13.com,3.5
+116,Havells India Ltd.,OPEN,"Parveen Singh, Prem Yadav","9313075155, 8527611011","parveen.singh@havells.com, prem.yadav@havellsc.om",8.5
+117,MAQ Software,OPEN,"Ankita pandey, Aarushi Gupta","9696213917, 8376869556","ankitap@maqsoftware.com, aarushig@maqsoftware.com",10
+118,Tescra Software Pvt. Ltd.,OPEN,Moses,9884562525,moses.k@tescra.com,8.8
+119,Tetrahedron Manufacturing Service Pvt. ltd.,OPEN,Priya Dwivedi,7873092278,"hrd@tetrahedron.in",
+120,Fluor Daniel india Pvt. Ltd.,OPEN,Disha Singh,9810201628,disha.singh@fluor.com,7.65
+121,Exicom Tele Systeme Ltd.,CLOSE,"Amardeep , Monika Thakur","9999777461, 7876006862","amardeep.singh1@exicom.com, monika.thakur@exicom.in",7
+122,Honda R&D Pvt. Ltd.,CLOSE,Naresh Yadav,9873932757,naresh.yadav@horizonconsulting.in,10
+123,CNH Industrial,CLOSE,Kavya Tayal,9650427015,kavya.tayal@cnhind.com,7.00-10.00
+124,Delloite India,CLOSE,"Rantu Girisa, hari Menon","9176065243, 9833800736","rgirisa@deloitte.com, harimenon@deloitte.com",7.6
+125,Copperpod IP,OPEN,"Anubhav Garg, Purva Sharma","7973929239, 7559446213","anubhav@coperpodip.com, purva@copperpodip.com",6.25
+126,Rishihood University,OPEN,"Keyur Satra, Adhirsh K Madhu","7021463609, 9544484649","keyurr.satra@newtonschool.co, adhirsh.madhu@newtonschool.co",10.00-12.00
+127,EXL,CLOSE,"Chandni saxena, Shantanu Verma, Dhruv Yadav","9818037329, 8630617688, 9871390129","chandni.saxena@exlservice.com, shantanu.verma@exlservice.com, dhruv.yadav@exlservice.com",6.5
+128,Factspan Analytics,OPEN,"Seenia Sajan, Puneeth Kidiyoor","9637084220, 9164982371","seenia.sajan@factspan.com, puneeth.kidiyoor@factspan.com",
+129,CORIZO EDUTECH,OPEN,Rani Sanjay Sharma,7259474513,rani.hr@zorizo.co.in,6.5
+130,Cyfuture India Pvt. Ltd.,OPEN,"Anukriti Chauhan ,Meanka Handu","7404607621, 9845375208","placement@cyfuture.com, meanka.handu@cyfuture.com",8
+131,Xenonstack Pvt. Ltd.,CLOSE,"Amrita Singh, Preeti sharma","9815744707, 8557920005","amrita.singh@xenonstack.com , preeti@xenonstack.com",7.5
+132,Tata Consultancy Services,CLOSE,"Gauri upadhyay, Tejeswini Singh",8826670124,"gauri.upadhyay@tcs.com, tejeswini.singh@tcs.com",11.5
+133,Stanza Living,OPEN,Dhairya Rogha ,9549142168,dhairya.rogha@stanzaliving.com,10
+134,EZ,OPEN,"Shweta Dwivedi, Divya Anand","9711889358, 9650566938","shweta.dwivedi@ez.works, divya.anand@ez.works",5
+135,Fiserv India  Pvt. Ltd.,OPEN,"Debasis Das, Monika Bakshi, Gargi Verama","9873717974, 9910027113, 9773922712","debasis.das@fiserv.com , monika.bakshi@fiserv.com, gargi.verma@fiserv.com",13.75
+136,SRM Institute of Science and Technology,OPEN,Ranjith Kumar,9445121301,hr.regoff@srmist.edu.in,10.8
+137,Accenture,CLOSE,"Radhvi,Epsa","8121991855, 8976019983","epsa.karan@accenture.com, r.radheyshyam.tiwari@accenture.com",10
+139,Unacademy,OPEN,Maithri Umesh,"9632105361, 9880553525",tpa-umesh.maithre@unacademy.com,8
+140,Neenopal Inc.,OPEN,"Lavi Srivastava, betsy.T. Abraham","8630806108, 9773692198","lavi.srivastava@neenopal.com, betsy.abraham@neenopal.com",9
+141,Vizexpert,OPEN,"Dimple Gulati, Vaibhav bansal","9560513758, 8860786252","dimple@vizexperts.com, vaibhav@vizexperts.com",2023-08-10 00:00:00
+142,Axiphyl Pvt. Ltd.,OPEN,"HR, Radha, Pragathi",819869796,ppaila@axiphyl.com,5
+143,JK Cement,OPEN,Ishita Gupta,9805510319,ishita.gupta@jkcement.com,6.1
+144,Perfios Software Solutions,OPEN,"Puja Chavan , Muskan Jaiswal","8976929643, 7000614318","puja.c@perfios.com, muskan.j@perfios.com",14.5
+145,iTinker (Namya Future Technologies),OPEN,"Sparsh Jain, Sudeep Gulati","8447531732, 9888936712","sparsh@itinker.io, sudeep@itinker.io",6.5
+146,Intel Technology India Pvt. Ltd.,CLOSE,Rohit Mathew,8310344498,rohithx.mathew@intel.com,
+147,Decision Point Pvt. Ltd.,CLOSE,"Hamid Husian, Mansi Mehrotra","9711917707, 7068111996","hamid.husain@decisionpoint.in, mansi.mehrothra@decisionpoint.in",
+148,Pace Stock Broking services Pvt. Ltd.,OPEN,"Priya Gupta, Harendera Singh","700407898, 6396536778","priyagupta@pacefin.in, harendra@pacefin.in",39
+149,Mckinley Rice,OPEN,Isha Chauhan,9460483001,ccd,6
+151,Agumentik Group of Companies,OPEN,Anup Vishal,8069640295,anupvishal@agumentik.com,
+152,Godrej & Boyce  Manufacturing Co. Ltd.,CLOSE,Tijo Jacob Thomas,9167306115,tijojit@godrej.com,
+153,Physics Wallah Pvt. Ltd.,OPEN,"Samridhi Goyal, Shivani Shrivastava","6367428091, 7461082598","samridhi.goyal@pw.live, shivani.shrivastava@pw.live",6
+154,Neometrix Engineering Pvt. Ltd.,OPEN,Madhulata,7290012356,hr@neometrixgroup.com,5
+155,Jio Platform Ltd.,OPEN,Charu Vashisht Singh,9826543263,charu.singh @ril.com,8.5
+156,ASC Infratech,CLOSE,"Jitendera Singh, Deepika Gaur","8800852303, 9582793915","hrd@ascinfratech.com, hr@ascinfratech.com",6.09
+157,Stellantis,OPEN,"Sudheer Babu, Binesh V","6305675073, 9962238009","sudheerbabu.kantimahanthu@stellantis.com, binesh.vatakkepat@stellantis.co",7.6
+158,LT Foods,CLOSE,"Sukriti Malik, Charu Gosain","9810864793, 9812810176","sukriti.malik@ltgroup.in, charu.gosain@ltgroup.in",7
+159,Zenarate India Pvt. Ltd.,CLOSE,Menka Sindhu,8700605967,"menka@zenarate.com",11.25
+160,221B Baker Street,OPEN,Souradeep Mondal,8768537056,souradeep1@twotwo1bbs.com,3.84-6.00
+161,Varroc Engineering Ltd.,OPEN,Smitha Menon,9028254623,smitha.manon@varroc.com,14.5
+162,Dixon Technologies India Ltd.,OPEN,"shweta Sharma, Diaa","9716973214, 6284569076","shweta.sharma@dixoninfo.com, diaa@dixoninfo.com",8
+163,Amway Global Services India Ltd.,OPEN,Anushree,9810347436,anushree.jaiswal@amway.com,15
+164,Affle India Pvt. Ltd,OPEN,Kanchan Sharm,9625902158,kanchan.sharma@affle.com,
+165,Shriram Pistons & Rings Ltd.,OPEN,Tina,9899692944,tina.ohson@shrirampistons.com,8
+166,Bakliwal Tutorials,OPEN,"Priyansha Srivastava, Madhuri Savakar","8799913609, 7888055562","hr@bakliwaltutorialsiit.com, bthrpune@gmail.com",6
+167,Airliquid.com,OPEN,"Vaishali Sehrawat, Sangeeta Prasad",8700987492,"vaishali.sehrawat@airliquid.com, sangeeta.prasad@airliquid.com",9
+168,IFB Industries Ltd.,OPEN,"Vaishvambhara Murthy, Melanie Nisha Soares","8657413944, 9168076893","vaishvambhara_murthy@ifbglobal.com, melanie_nisha@ifbglobal.com",6
+170,Grazitti Interactive (Already Sr. No. 79),OPEN,"Kavita Chugh, Shikha Gupta","7986504338, 9910030694","kavita.rani@grazitti.com, shikhag@grazitti.com",8.00-12.00
+171,Neolite ZKW Lightings Pvt. Ltd.,CLOSE,"Harsh Madan, Diksha Gupta","9717775965, 6387991206","harsh.madan@neolitezkw.com, diksha.gupta@neolitezkw.com",4.2
+172,Hexaware Technologies,OPEN,Veeralakshmi N,9941950121,veralakshmin@hexaware.com,15
+173,MeticBooks,OPEN,"Himanshu Maurya, HR",9506583421,"himanshu.maurya24@gmail.com, hiring@metricbooks.in",15.00-25.00
+174,DDSPLM Private Ltd.,OPEN,Yashika Hemlani,9319788144,yashika.hemlani.ea@ddsplm.com,6.5
+175,Pyzaql Edutech Private Ltd.,OPEN,Vidhya C,8095303276,vidhya.c@pyzaql.com,
+176,Samsung Research and Development Institue india  Delhiq,OPEN,Akshita Singh,9140740328,singh.ak@samsung.com,15.5
+177,Ideametrics Pvt. Ltd.,OPEN,"Mr. Mohseen Satarmaker, Siddhesh more","9922764645, 9075257071","satarmaker.mohseen@ideametrics.co.in, more.siddhesh@ideametrics.co.in",6
+178,Allen Career Institute Pvt. Ltd.,OPEN,"Parikshit Sharma , Deepak Tiwari","9214035254, 9041216386","parikshit.sharma@allen.in, hr@chandigarh@allen.in",6
+179,Realty Smartz Pvt. Ltd.,OPEN,Anchal Rathee,8826069207,anchal.rathee@realtysmartz.in,6
+180,Hitachi Energy,OPEN,Serena Fernandess,8591420245,Serena.fernandes@hitachienergy.com,9
+181,Brahmos Aerospace Pvt. Ltd.,CLOSE,Nisha,1142285105,hrcampusrecruitment@brahmos.com,17
+182,Delhivery Limited,OPEN,"Jonathan Young , Bhavika Chhabra","7385823123, 8368694781","jonathan.young@delhivery.com, bhavika.chhabra@delhivery.com",6
+183,Signalchip Innovations Pvt. Ltd.,OPEN,"Pradeep Jana , Sukrutha HK Bharadwaj","8699333022, 9900363588","pradeep.jana@signalchip.com, sukruth@signalchip.com",11
+184,Engineers India Ltd.(PSU),OPEN,Thathagat Sahoo,1126763297,tathagat.sahoo@eil.co.in,11
+185,JBM Electric Vehicles Pvt. Ltd.,CLOSE,Gunjan Rawat,9711347001,gunjan.rawat@jbmgrop.com,8
+186,Afcons Infrastructure Limited,CLOSE,Abhijit Vasant Kamthe,9890059105,abhijit@afcons.com,5.4
+187,Sri Chaitanya Eductional Institure,OPEN,N. Shirley,9100121285,shirley.n@varsitymgmt.com,
+188,Metso India ,CLOSE,"Ujwal Srivastav, Ravi Sharma","8376909750, 8826979595","ujwal.srivastav@metso.com, ravi.sharma1@metso.com",5
+189,FITJEE,OPEN,"Ashish Kr. Aggarwal, Geetanjali","9810405910, 7217890873",corporate@fiitjee.com,30
+190,Alcom Extrusions Pvt. Ltd.,OPEN,Pavani D,728644938,hrindia@gatecorpus.com,
+191,Iterate Technologies GmbH,OPEN,Aashwin Shrivastav,9818850505,aashwin@iiterate.de,36.22
+192,Kansai Nerolac Paints Ltd.,OPEN,"Chirag Dhawan, Sumedh Pradhan","8097565338, 7057443539","chiragdhawan@nerolac.com, sumedhpradhan@nerolac.com",5.5
+193,Systra,OPEN,Meghna Singhee,9873127303,msinghee@systra.com,5.5
+194,Jacob Solutions India Pvt. Ltd.,OPEN,Mansi Bhandari,9372754270,mansi.bhandari@jacobs.com,6
+195,Algo Energytech Ventures Pvt. Ltd.,OPEN,Tiasha Guchhait,9741314330,tiasha.guchhait@xempla.io,12.00-15.00
+196,KEC International,CLOSE,"Reshma Sawant , Damini Merchant",8169886569,"sawantrm@kecrpg.com, merchantd@kecrpg.com",6.5
+197,AXIS IIT/NEET,OPEN,Sanika Tamhane,9619780746,tamhane.sanika@mahindra.com,13
+198,ISGEC Hitachi Zosen Ltd.,CLOSE,Amit Verma ,7046800999,amit.verma@isgechitachizosen.com,33000PM
+199,Tata Electronics Pvt. Ltd.,CLOSE,Nayana Reddy P,6383743378,nayana.rp@tataelectronics.co.in,
+200,Smt. S.R. Patel Engineering College Unjha,OPEN,"Amit P Tiwari, Vikram Gupta","8577063959, 8764297687",hr@srpec.org,6
+201,Avanti Fellows,OPEN,"Pooja Bhandari, Sonam Nagar","8727982061, 7082531523","poojabhandari@vantifellows.org, sonam@avantifellows.org",5.00-6.50
+202,Colleagues Consultants P4rivate Limited,OPEN,"Ishita Gaur, Dhruv Kumar","9311403461, 9910994963","hr@colleagues.co.in, dks@colleagues.co.in",5.2
+203,Euler Motors,OPEN,Adesh Dubey,8130402002,adesh.dubey@eulermotors.com,8
+204,Leaning Routes Private Limited,OPEN,"Aakriti Bhatnagar, Kshitij Puri","7428970671, 8655869199","aakriti.b@learningroutes.in, kshitij.p@learningroutes.in",6.3
+205,Vedantu,OPEN,Anice Pauly ,9656923318,anice.pauly@vedantu.com,
+206,Proxelera Pvt. Ltd.,OPEN,"Vijay Kumar, Pushpa V","9845155132, 9845952516","vijay.nd@proxelera.com, gen-admin@proxelera.com",5.00-8.00
+207,Noida Power Company Limited,OPEN,"Prateek Tripathy, Sandeep Rai",8750068228,"ptripathy@noidapower.com, srai@noidapower.com",7
+208,GoComet,OPEN,Priyanka Soankamble,7021811552,priyanka.soankamble@gocomet.com,6.5
+209,Farmart Pvt. Ltd.,OPEN,"Jyoti Verma, Kanderp Goel","9911636158, 9538850742","jyoti.verma@famart.co, kanderp.goel@farmart.co",
+210,HCL Software,OPEN,"Poonam Sharma, Ashish Bhalla",7838476530,"poonam-sharma@hcl.com, ashish.bhalla@hcl.com",18
+211,SRM University,OPEN,"Sivaranjan T , S. Riaz",97907335079031996416,"sivaranjan.t@srmap.edu.in, riaz.s@srmap.edu.in",12.00-17.28
+212,Intellipaat,OPEN,Manjunath,7676126889,manjunath.v@intellipaat.com,
+213,BEML,OPEN,"Neena Singh, R.S. Hari","9535180078, 9036873508","neena.singh@bemlltd.in, recruitment@bemlltd.in",9.8
+214,Subros,OPEN,Abhishek Upadhyay,9810020650,abhishek.upadhyay@@subros.com,6.00-7.00
+215,Maruti Suzuki India ltd,CLOSE,Shashank Kumar,9873053684,shashank.kumar3@maruti.co.in,9.2
+216,BPCL,CLOSE,Harshita Jain,8447843827,harshitajain@bharatpetroleum.in,19.48
+217,Tecnimont Private Limited,CLOSE,Kaushik Das,8108902037,k.das2@tecnimont.in,5.5
+218,BCH Electric Ltd.,,Palvi,7042678871,palvi.bchindia.com,6
+219,NBC Bearing ,CLOSE,Vishal Mitra,8800944661,vishal.mitra@nbcbearing.in,5.8
+220,SAP Labs India,CLOSE,Dilip,953825960,dilip.kumar.k01@sap.com,29.16
+221,Alliant Group,CLOSE,bharath Pasam,7207070278,pasam.bharath@alliatngroup.com,5.5
+222,GLA University,OPEN,"Janmejay Mishara, Priyanka Agarwal","9871826201, 8126871304","janmejay.mishra@gla.ca.in, agarwal.priyanka@gla.ac.in",12
+210,HCL Tech,OPEN,"Poonam Sharma, Ashish Bhalla",7838476530,"poonam-sharma@hcl.com, ashish.bhalla@hcl.com",
+224,Bayone Solutions Inc.,OPEN,Jayesh atheria,8320486941,kjayeshkumar@bayonesolution.com,3
+225,75 Way Technolo,OPEN,Suparna Mukherjee,9501706475,hr@75way.com,4.2
+226,Z1 Tech,OPEN,"Nupur Gupta, Malvika Saxena, HR","7217752170, 8800241241","gnupur@z1tech.com, malvika@z1tech.com, talent@z1tech.com",7
+227,BluePine Energy,OPEN,Ruhi Guptaq,9873543432,ruhi.gupta@bluepineenergy.com,6
+228,United Airlines,CLOSE,"Shreya Swati, Joseph Daniel","9560781006, 9560770555","shreya.swati@united.com, dainel.joseph@united.com",8.5
+229,Titan,CLOSE,Aditi Dixit,9145486954,aditidixit@titan.co.in,10
+230,Escorts Kubota,CLOSE,Ruchika Sharma,9650606825,ruchika.sharma2@escortskubota.com,7
+231,Kalpataru Projects International Ltd.,CLOSE,Suprity Sarkar,8080877857,suprity.sarkar@kalptaruprojects.com,4.5
+232,NAB Innovation Centre India,CLOSE,"Monika Nigam, Mukesh Gulati","8577867409, 9990865112","monika.nigam@nab.com.au, mukesh.gulati@nab.com.au",11
+233,Anakin Skywalker Pvt. Ltd.,OPEN,Chitra.S,6363036708,chaitra.s@anakin.company,9
+234,PP Savani University,OPEN,-,-,-,-
+235,Scintillation Research and Analytics Services Ltd.,OPEN,Kashish Sahrma,8360675053,hr@sraas.com,4.5
+236,Anand Group,OPEN,Srishty Kukreti,8791182948,srishty.kukreti@anandgroupindia.com,12
+237,CL Educate ,OPEN,Muskan Khurana,8368716691,muskan.khurana@careerlauncher.com,8
+238,HLS Asia,CLOSE,Krunal Surti,9510222705,krunal.surti@hlsasia.com,
+239,Armorcode India Pvt. Ltd,CLOSE,Khyati Mistry `,9879338004,khyati.mistry@armorcode.io,25.95
+240,"Bank of New York, Mellon",CLOSE,Morris Paul Rathnaraj,7667270662,morris.rathnaraj@bnymellon.com,
+241,ACME Group,OPEN,Md. Aamir,8125661801,md.aamir@acme.in,8.25
+242,Aliens Group,OPEN,Anupma M,7337363474,anupama.m@aliensgroup.in,8
+243,Ecosense Sustainable Solutions Pvt. Ltd.q,OPEN,Abhishek Manglick,9910166999,amangalick@ecosenseworld.com,10
+244,Cloutflow,OPEN,Shivam Arora,9560288563,shivam@cloutflow.com,12
+245,Pregrad Pvt. Ltd.,OPEN,Harshita Panwar,9205004073,harshitapanwar.hr@pregradcampus.in,
+246,Shorthills AI,OPEN,"Amisha Jaiswal, Supriya","9205266630, 8588817916","campus@shorthills.ai, supriya@shorthillstech.com",
+247,Intellipaath,OPEN,Manjunath ,7676126889,manjunath.v@intellipaat.com,7.25
+248,Coperion Ideal Pvt. Ltd.,OPEN,Umesh Verma,-,umesh.verma@coperion.com,5
+249,OneBanc Technologies Pvt. Ltd.,OPEN,"Tanvi Aggarwal, Anubhav Narula","8168998196, 9760177533","tanvi.aggarwal@onebanc.ai, anubhav.narula@onebanc.ai",20
+250,Indexing Operation Pvt. Ltd.,OPEN,"Surbhi Mehta, Shweta Chawla","8696961357, 9650941199","surbhim@indxx.com, schawla@indxx.com",8
+251,Avaada Group,OPEN,Shilki Bharadwaj,7065500228,shilki. bharadwaj@avaada.com,7
+252,Codeyoung,OPEN,Neha,8129440187,nehadinesh@smaowl.com,-
+254,Alpha Test House Pvt. Ltd.,OPEN,"Nilam Kumar , Amandep Kumarq","8826215296, 7838741406",support@alphatesthouse.com,-
+255,FNZ Pvt. Ltd.,OPEN,Harsh Veer,"8279721912, 9910307762",harsh.veer@fnz.com,10
+256,Girnar Soft Education Pvt. Ltd.,OPEN,"Aishwarya Pandita, Simardeep Singh","9140570456, 8528750790","aishwarya.pandita@collegedunia.com, simardeep.singh@collegedunia.com",6
+257,Concept Dash,OPEN,Shivani Raina,9796060788,shivani@conceptdash.ca,3.9
+258,ESync,OPEN,Sanat Ullah Khan,8960220029,sanatullah.khan@heromotors.com,8
+259,Galgotias University,OPEN,"Sarika Chaudhary, Shilpi Chandra","9808401836, 9873472522","sarika.chaudhary@galgotiasuniversity.edu.in, hr@galgotiasuniversity.edu.in",5
+260,Ediglobe,OPEN,Akshara B,8073915265,akshara.b@ediglobe.com,7
+261,Edustation,OPEN,"Hemalatha, Geetha","6372424257, 8317389984","hema@edustation.co.in, geetha@edustation.co.in",9
+262,Zavya,OPEN,Priyanshi Parasar,9981334187,team@crossinghurdles.com,10
+263,NPCI (National Payment Corporation India),OPEN,Swapnil Patil,8291885568,swapnali.patil@npci.org.in,16.15
+264,Tek Travel,OPEN,Anand Babu,7097589450,anand.babu@tbo.com,6
+265,Adani Group,OPEN,Mohan Jadhav,792557138,mohan.jadhav@adani.com,6.5
+266,Tigris Mobility Pvt. Ltd.,OPEN,Arpit Gupta,9910800271,hr@tigrismobility.com,4.8
+267,Altudo,OPEN,"Namrata Chopra , Tej Mishra","7837998245, 9569902425","namrata.chopra@altudo.co, tej.mishra@altudo.co",8
+268,Syrma SGS Technology Ltd.,OPEN,Vidhi Verma,6261709339,vidhi.verma@pluginlive.com,7
+269,Engie India,OPEN,"Medha Ranjan, Shreya Bishnoi","7058522243, 9599117733","medha.ranjan@external.engie.com, shreya.bishnoi@engie.com",7.5
+270,Adzealous Media Pvt. Ltd.,OPEN,Mayank Gupta,"9810761128, 8708751816",mayank.gupta@adzealous.com,4.6
+271,Om Logistics,OPEN,Sakshi Sharma,8448896609,sakshi.sharma@omlogistics.co.in,6
+272,olx,OPEN,"Srija Rai, Lipika Tyagi",7387823546,"srija.rai@olx.in, lipika.tyagi1@olx.in",3.6
+273,Mechartes Researchers Pvt. Ltd.,OPEN,Nidhi Srivastava,9560599287,hr@mechartes.com,5.5
+274,Pavai Infra Geotech,OPEN,Bhava Shruthi A,7395841426,careers@pavaigeotech.com,8
+275,JK Cement,OPEN,Muskan Bansal,9799262530,muskan.bansal@jkcement.com,
+276,GL Bajaj Institute of Technology and Management,OPEN,"Rekha Singh, Ananaya Prem","9211709291, 7543018958","head.hr@glbitm.ac.in, ananya.prem@glbitm.ac.in",
+277,Holtec Consulting Pvt.Ltd.,OPEN,Supreet Singh,9868609252,ssb@holtecnet.com,4.45
+278,Nat Habit,OPEN,Naveen Singh,7703897083,naven.singh@nathabit.in,8
+279,Entab Infotech Pvt. Ltd.,OPEN,"Vinni Mathew, Divya verma",8929886952,"hr@entab.in, hrm2@entab.in",6
+280,Vichark Computers Pvt. ltd.,OPEN,Dhruvi Parmar,9727813180,Dhruvi.parmar@vichark.in,7
+281,First Source ,OPEN,Shanu Jain ,8287826005,shanu.jain1@firstsource.com,8
+282,Korea Railroad Technical Corporation,OPEN,"HR, Chetan K R",7756001256,"hr@krtcindia.com, chetan.kr@krtcindia.com",6
+283,ZL Tech,OPEN,Geeta,9985836767,gchandana@zlti.com,10
+284,Insaurance Dekho,OPEN,"Abhay Singh Chauhan, Meenakshi Joshi","8297236321, 9910214072","abhay.chauhan@insaurancedekho.com, meenakshi.joshi@insurancedekho.com",5
+285,HIKE Education,OPEN,Poorvi Gupta,8851291185,poorvi@hikeedu.in,7.02
+286,Essar Minmet Ltd.,OPEN,"Purva Salvi, Atish Kumar","7710984515, 9777444841","purva.salvi@essarminmet.co.in, atish.kumar@essarcapital.com",8
+287,Hexagon R&D India ,OPEN,Rohan Mallapragada,8712345877,rohan.mallapragada@hexagon.com,7.5
+288,MAQ Software,OPEN,Rahul Singh,9963117987,rahulsi@maqsoftware.com,7.00-10.00
+289,Fun First Globa Skillers Pvt. Ltd.,OPEN,"Nagarani M. Dronacharya, Amit Gupta","8976877563, 9769105001","hrd@funfirst.in, agupta@funfirst.in",6
+290,Askiitians Web Pvt. Ltd.,OPEN,"Swati Srivstava, Vaishali Yadavq","9739341112, 9310379771","hr@askiitians.com , vaishali.yadav@askiitians.com",6
+291,Bosch Rexroth (India) Pvt. Ltd.,OPEN,Disha Ghoda,7778878225,dishap.ghoda@boschrexroth.co.on,7.5
+292,Shigan Quantaum Technologies Ltd.,OPEN,Vandit Sawhney,9910494259,vandita.sawhney@shigan.com,5
+293,Dana Anand India Pvt. Ltd.,OPEN,Pallavi Gupta,8484933203,pallavi.gupta@dana.com,8.00-12.00
+294,Carrier Airconditioning and Regrigeration,OPEN,Priyanka Panda,9711612303,priyanka.panda@carrier.com,6.00-8.00
+295,Soul AI,OPEN,Shreya Thota,9550306890,shreya@soulhq.ai,
+296,Dolcera,OPEN,Mamtha,9985858019,mamtha.yadav@dolcera.com,7
+297,Aquaairx Autonomous Systems Pvt. Ltd,OPEN,Lahari G,6360173021,hiringtalent@aerogo.live,6
+276,Xempla.io,OPEN,Tisha Guchhait,9741314330,tiasha.guchhait@xempla.io,

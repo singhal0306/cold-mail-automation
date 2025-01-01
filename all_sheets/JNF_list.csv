@@ -1,0 +1,312 @@
+Sr. No. ,Name of Company,PCC Assign,SPOC Mail,Status,Remarks,Name of Contact Person ,Contact No. ,Email ID ,UG,PG,CTC
+1,Fico,Jhansi Mahato,Done ,OPEN,,"Ramakrishnan KJ, Kavitha R","9901655441, 9686824938","ramakrishnankj@fico.com, kavithar@fico.com",,MCA,10
+2,Truminds,Shreya Kundu,Done ,OPEN,,Priyansha Arora,9643602027,priyansha.arora@truminds.com,"COE,IT,ECE",MCA,11
+3,Enerzinx Technology,,,OPEN,,"Mubeena Nadarsha, Vishwagnachri TR","9880789937, 9164374726","mubeena.nadarsha@enerzinx.com, vishwagnachari.tr@enerzinx.com",,PS,10.12
+4,Amantya Technology,Shalini Maurya,Done ,CLOSE,,"Pooja Jassy, Mamta Yadav","8527354878, 7838141418","pooja.jassy@amantyatech.com, mamta.yadav@amantyatech.com",COE<IT<ECE,,8
+5,Winzo Games,Shreya Kundu,Done ,CLOSE,0,"Rahul Gera, Abhishek Shome","80030039339, 7838146692","rahul.gera@winzogames.com, abhishek.shome@winzogames.com","Coe ,IT",,22
+6,Natwest Group,Shalini Maurya,Done ,OPEN, ,Rashi Raj,9711952504,rashi.raj@natwest.com,"COE,IT,ECE","COED,ECE",14
+7,Growth Natives,Swapnil Sahu,Done ,OPEN,,"Sakshi  Thakur, Geeta patial","8427753911, 8427663376","shakshi.thakur@growthnatives.com, Geeta.patial@growthnatives.com","COE,IT,",mba,upto 11.00
+8,PolariseMe,Udit ,Done ,OPEN,,Samiksh Gutpa,8288904097,samiksha.gupta@polariseme.com,COE,,6.6
+9,Cvent India Pvt. ltd.,Saketh,Done ,CLOSE,3,Abhay yadav,9289181666,abhay.yadav@cevent.com,"COE,IT",,1496645
+10,ION Group,Neha Kumari,Done ,OPEN,,Akanksha Kapoor,9999393736,akanksha.kapoor@iongroup.com,"COE,IT,ECE",,14
+11,Himalayan Group,Sushmita,Done ,OPEN,,"Mannat Bansal, Harish Mahendru","7807880351, 9992500282","mannatbansal@hgpi.in, director_hiet@hgpi.in",,"coed, ECE,EED,THER,MD,TRNS,STR. MCA,MBA",7.00-10.00
+12,Learningshala-Vagmine Education LLP,,,OPEN,,,,,ALL,MBA,5.76
+13,Learning Routes.,Ankur Meena,Done ,OPEN,,"Vaishali Thakur, Deepshikha Sharma","7009659620, 8655869199","deepshikha.s@learningroutes.in, vaishali.t@learningroutes.in",All (NOT ECE),ALL,6.06
+14,Tata AIG General Insaurance,Abhishek,Done ,CLOSE,6,"Harshita Kothari, Lakshita Pabuwal","8078658210, 7023685283","harshita1.kothari@tataaig.com, lakshita.pabuwal@tataaig.com","COE,IT,ECE,ME",,9
+15,Slideuplift,Kartik Rai,Done ,OPEN,,Vivek Pawar,8087222983,phrogaccounts@phrogapp.com,ALL,ALL,3.00-5.00
+16,Neenopal Inc.,Udit,Done ,OPEN,,"Lavi Srivastava, betsy.T. Abraham","8630806108, 9773692198","lavi.srivastava@neenopal.com, betsy.abraham@neenopal.com",ALL,"COED,MCA",9
+17,Tummee,Tarun Singh,Done ,OPEN,,Supriya Kotini,9980782194,supriya@tummee.com,"COE,IT",,11.6
+18,Intellect Design Arena,Rahul Shah,Done ,OPEN,,Vikram Dasarathan,9884633999,"campus.engagement@intellectdesign.com, vikram.dasarathan@intellectdesign.com",,MCA,5
+19,Unistring Tech Solutions Pvt. ltd.,Swapnil,Done ,OPEN,,"Vishnu Prasad, Veda Devi","8341787360, 9032690224","vishuprasad@unistring.com, vedadevi.uts@gmail.com","COE,IT,ECE,EE,PIE","COED,ECE, THER. REN. SVLSI",6.00-8.00
+20,Effiya Technology,Neha,Done ,CLOSE,,"Neha Rana, Meetu Gupat",9310418468,"nr1@sutra-management.com, hr@sutra-management.com",ALL (not PIE),,11.52
+21,NO Broker Pvt. technologies Ltd.,Nehal Sharma,Done ,OPEN,,Sai Thanmai Potla,8919654649,saithanmai.potla@nobroker.in,ALL (not PIE),,4.8
+22,ProcDNA Analytics Pvt. ltd.,Abhishek,Done ,CLOSE,3,Muskan Garg,8076317599,"muskan.garg@procdna.com, Sonam.tanwar@procdna.com",ALL ,,15
+23,Augment Systems Pvt. Ltd.,Kartik Rai,Done ,OPEN,,Urvi Kumar Shyamal Kaushik,"9899811093, 8486190922","careers@augmentsys.com, shyamal@urgenthomework.com","COE,IT,EE","COED,MBA",3.6
+24,Hyperdart Technology Pvt. ltd.,Neha Kumari,Done ,OPEN,,Charu,9873767090,charu.sharma@hyperdart.com,ALL,"COED, ",7.5
+25,Kalvium,Kartik Rai,Done ,OPEN,,Merlin Jayasingh,7339221379,merlin@kalvium.com,ALL,"COED,MBA",7
+26,John Deere India Pvt. Ltd.,Shreya Kundu,Done ,CLOSE,6,"Kalpesh Londhe, Sunil Saini","9766660354, 9307130780","londhekalpesh@johndeere.com, sainisunil@johndeere.com",All ( Not Civil),"COED, ECE,EEDMED,SVLSI",11
+27,Axtria,Abhishek,Done ,OPEN,,Siddharth Anand,9818151239,campusplacement@axtria.com,,coed,13.5
+28,ISGEC Heavy Engineering,Bhupendera,Done ,OPEN,,"DN Mishra, DK Jain","8930111854, ","training ynr@isgec.com, dkjain@isgec.com",ME,MD,8.26
+29,Yamaha Motor Solutions,Rahul Shah,Done ,CLOSE,,Surender Singh,9540088088,surenders@yamaha-motor-india.com,"COE,IT,ECE","COED,ECE,MCA",10.3
+30,MIET,,,OPEN,,"Sanjay Vashisth, Sonal Ahlawat","9897345345, 9528770179","sanjay.vashisth@miet.ac.in, sonal.ahlawat@miet.ac.in",,ALL and PhD,3.60-4.72
+31,Global HR Associated,Swapnil Sahu,Done ,OPEN,,Deepali,8178686684,contact@globalhrassociates.com,ALL,ALL,5.5
+32,Winjit Technology,Tarun Singh,Done ,OPEN,,Anisha,9607776495,anishag@winjit.com,"COE,IT,ECE","COED,ECE",12
+33,Airtel,Shreya Kundu,Done ,CLOSE,9,Deepti Yadav,9667265931,deepti1.yadav@airtel.com,"COE,IT,ECE,EE","COED,ECE,EED",14.75
+34,Qbit Labs Pvt. Ltd.,Shreya Kundu,Done ,OPEN,,"Jiya Gautam, Anjali Sharma","9667138067, 9140224203","jiya.gautam@qbitlabs.co.in, analai.sharma@qbitlabs.co.in","ECE,EE",,9.33
+35,Vestas Technology Pvt. Ltd.,Saketh,Done ,OPEN,,"Rashika Sharma, Rinsy Backer","8510940122, 9880970626","rashika.sharma@zetapp.in, rinsy.backer@zetapp.in","COE,ECE",,18
+36,eLitmus Evaluation Pvt. ltd.,Swapnil,Done ,OPEN,,Shashank Sahu,7004722265,shashank.sahu@elitmus.ocm,ALL,,8
+37,Learning Routes. Sr. No 13,Ankur Meena,Done ,OPEN,,"Vaishali Thakur, Deepshikha Sharma","7009659620, 8655869199","deepshikha.s@learningroutes.in, vaishali.t@learningroutes.in",ALL,ALL,6.06
+38,Amdocs,Rahul Shah,Done ,CLOSE,,Adita Chatterjee,8446997731,adita.chatterjee@amdocs.com,"COE,IT,ECE","COED,ECE,MCA",10
+39,Aryaka Networks ,Jhansi ,Done ,CLOSE,4,Bandi Karthik,9740876712,bandi.karthik@aryaka.com,na,"COED,MCA",12
+40,Anora Instrumentation Pvt. Ltd.,Ankush Narwal,Done ,OPEN,,"Krithika P. , Jasindra.T",,"campus@anoralabs.com, jasinddra@anoralabs.com","COE,IT,ECE,EEME",VLSI,4.00-6.00
+41,Jubliant Works,Abhishek,Done ,CLOSE,2,Abhijeet Rasgotra,9958855921,abhijeet.rasgotra@jublfood.com,"EE,ME,PIE",,8.27
+42,Varroc Burah,Anshuman PG,Done ,OPEN,,Isha Vispute Deepika Verma,"9028554526, 9607975241","isha.vispute@varroc.com, deepika.verma@varroc.com",,"PED,CS,THER",10.00-12.00
+43,Newgen Software,Shreya Bansal,Done ,OPEN,,Harshita Sahdev,7982524253,harshita.sahdev@newgensoftware.com,ALL,"COED,ECE,EED,ME,PHY",9.00-11.00
+44,Infinity Learn,Udit,Done ,OPEN,,"Amala Pujita, Lavanya Pedada","9849535117, 9652157978","amala.pujitha@infinitylearn.com, lavanya.pedada@infinitylearn.com","COE,IT,ECE",COED,7.00-10.00
+45,Amit Engineers Nimbua,Prabhat PG PCC,Done ,OPEN,,"Vikas , Deepak Dangi","9779991106, 9992755522","dr.vikas@aerail.in, projects@amitengineersbaddi.com","EE,ME","PED,THER",4.20-5.00
+46,Indus Valley Partners,Saketh,Done ,OPEN,,Palak Sachdeva,9818148999,psachdeva.iv.in,"COE,IT",,7.5
+47,rtCamp Solutions Pvt. Ltd.,Shreya Bansal,Done ,OPEN,,"Nicol Fernandes, Aanchal Singh",,campus@rtcamp.com,,,6
+48,Calance Software Pvt. Ltd.,Swapnil Sahu,Done ,OPEN,,Gurjeet Kaur,7500071559,gkaur@calance.com,UG ALL,,8
+49,Synopsys India Pvt. Ltd.,Shalini Maurya,Done ,CLOSE,7,Asha Ramchandran,7207910978,asha.ramachandran@synopsys.co ,"COE,IT,ECE","COED,ECE,VLSI",22
+50,"Merlytics, an Accordion Company",Ankush Narwal,Done ,OPEN,,"Vivek Joshi, Krishna Prashant Raju","8886089296, 9581319028","vivek_joshi@merilytics.com, krishna_raju@merilytics.com",ALL not PIE,,8.5
+51,IntelliSmart Infrastructrure Pvt. ltd.,December,,OPEN,,Dr. Richa Rao,9818478767,richa.rao@intellismartinfra.in,"COE,IT,EE",,5.3
+52,"Anglo-Eastern Ship Management Ltd. Hong, Kong",Jan-Feb,,OPEN,,Rishi Raj Rana,9811249852,ranar@angloeastern.com,"EE,ME,EE","ECE,EED,ME",3.60-5.00
+53,Dover ,Shubham PG PCC,Done ,CLOSE,,Atul Kumar Singh,9972838838,asingh9@dovercorp.com,,MED,
+54,Media.net,Shreya Bansal,Done ,OPEN,,,,,"COE,IT,ECE,ECE","COED,ECE,VLSI",39.31
+55,"C-DAC,Bangalore",Udit,Done ,OPEN,,Binu George,9448884138,binu@cadc.in,"COE,IT,ECE","COED,ECE",
+56,Unicommerce,Rahul Shah,Done ,OPEN,,Karan Sharma,9808186450,karan.sharma@unicommerce.com," COE,IT","COED,MCA",8
+57,Kratikal Tech Pvt. Ltd.,Jhansi ,Done ,OPEN,,Jagrtit Satija,"9289035153, 8130337830","hr@kratikal.com, jagriti.satija@kratikal.com","COE,IT,ECE",MCA,8
+58,Genpact,Jhansi ,Done ,CLOSE,20,Ramanathan,9659230778,ramanathan.subramaniyan@genpact.com,UG ALL,,11
+59,Arinsinvesting Technology Pvt. Ltd.,Saketh,Done ,OPEN,,Sneha,7021756566,sneha.chovatiya@arisinvesting.com,"COE,IT ECE,EE",,
+60,Toshiba Software India Pvt. Ltd.,Bhupendera/Tarun,Done ,CLOSE,,Lokesh Kumar,9980513170,lokeshkumar.chandrasekar@toshiba-tsip.com,"COE,IT ,ECE","COED,ECE",10.5
+61,Hughes Systique,Rahul Shah,Done ,CLOSE,2,"Suchetra Chauhan, Shilpa Mitra Roy","9899751567, 9999769073","sucheta.chauhan@hsc.com, shilpa.roy@hsc.com","COE,IT",M CA,10.6
+62,LAM Research,Lijender,Done ,OPEN,,"Briju bopanna, Sonali Sahoo",9686281950,"brijubopanna.chodumadasubbaiah@lamresearch.com, snali.sahoo@hirepro.in",,"COED,PED,ESD",22.6
+63,MyWays Life Layout Pvt. LTd.,Kartik Rai,Done ,OPEN,,Preeti Karn,7669699297,preeti.k@myways.ai,ALL,ALL,8.00-12.00
+64,Jungleworks Software Pvt. Ltd.,Udit,Done ,OPEN,,"Alka Sharma, Priyanka Kaura","8699357361, 7009815009",hr@jungleworks.com,"COE,IT,ECE,EE","COED,MBA,MCA",6
+65,InfoObject Software India Pvt. Ltd.,Udit,Done ,OPEN,,"Paramveer Rajawat, Trisha Singh",7014635485,"prajawat@infoobjects.com, trisha@infoobject.com","COE,IT",COED,6
+66,Techture Structures Pvt. Ltd.,To be later,,OPEN,,"Pooja Parekh, Anuja Tiwari","8085566717, 9130092841",hr@techture.global,"EE,ME,CIVIL",,4.5
+67,Samsung Semiconductor India Research,Rahul Bhattacharya,Done ,OPEN,,"Priyanka Guruswamy, Naveen","99860006019, 9945280407","priyanka.g@samsung.com, nav.kumar@samsung.com","COE,ECE","COE,ECE,SVLSI",23.23
+68,ITC Limited,Ankush Narwal,Done ,CLOSE,3,"Shivani Dhaka, Liju Pillai","7338697518, 9766516169","shivani.dhaka@itc.in, liju.lambodharanpillai@itc.in","EE,ME",,12
+69,ZF Group,Ujjawal Chauhan,Done ,CLOSE,2,Rajan Kumar Singh,7207755169,rajankumar.singh@zf.com,,"COED, ECE, PED, CS,MD,SVLSI",9.25
+70,Contlo, Rahul Shah,Done ,OPEN,,"Abhay Naik, Neha","6361311293, 9940912324","abhay@contlo.com, neha@contlo.com","COE,IT","COED,MCA",18
+71,Morphle Labs,Shalini Maurya,Done ,OPEN,,Himanshu Rai,7218669866,himanshu@morphle.in,"COE,IT,ECE,EE",,17.00-22.00
+72,Vardhman Textile Ltd.,To be later,,OPEN,,"Jasmeet Kaur, Neeraj Tripathi","8146626480, 8146626457","corphr13@varthman.com, neerajtripathi@varthman.com","ECE,EE,ME",MBA,3.3
+73,Technip,Kartik Rai,Done ,OPEN,,"Pragya Srivastava, Meenakshi Alimchandani","8287799547, 9717788829","pragya.srivastava@external.technip, meenakshi.alimchandani@technipenergies.com","EE,ME,CIVIL",,6.5
+74,Sirion Labs,Udit,Done ,OPEN,,Dipannita Sur,9163304549,dipannita.sur@sirionlabs.com,"COE,IT,ECE,EE,ME",,13.63
+75,KPIT,Nehal,Done ,OPEN,,Kalyan K Arigela,9963545533,kalyan.arigela@kpit.com,,MBA,6.5
+76,Trainz Digital,Swapnil,Done ,CLOSE,,"Manjusha Shenoy, Vinay Vaishnav","9620413872, 9663677077","manjusha.shenoy@trianz.com, vinay.vaishnav@trainz.com","COE,IT,ECE,EE,ME",na,10
+77,Trinity Partners LLC,Swapnil Sahu,Done ,CLOSE,1,Uday Kanth G,9121066084,ukanthg@trinitypartners.com,ALL,,
+78,Tredence Analytics,Kartik Rai,Done ,OPEN,,"Nishant Christian, Sabareesh Nair","9535236750, 9148071285","nishant.christian@tredence.com, sabareesh.nair@tredence.com",ALL,,
+79,Grazitti Interactive,Shreya Bansal,Done ,OPEN,,"Kavita Chugh, Shikha Gupta","7986504338, 9910030694","kavita.rani@grazitti.com, shikhag@grazitti.com","COE,IT","COED, MBA",8.00-12.00
+80,Q3 Technology,Abhishek PIE,Done ,CLOSE,,Rajeeb Biswas,9810552971,rajeeb@q3tech.com,ALL,,15
+81,S-Trude Technologies Pvt. Ltd,Rahul,Done ,OPEN,,"Sahil Cheema, Sharat Shashidharan","8411096277, 8884924034","sahil@snaptrude.com, sharat@snaptrude.com","COE,IT","COED,MCA",
+82,Wipro,RaghuRaj,Done ,OPEN,,Nahida Kouser,9513337165,nahida.kouser2@wipro.com,,PhD,20
+83,Antino Labs,Abhishek PIE,Done ,OPEN,,"Disha Chahar, Ananya Shukla","9205675709, 9569256459","disha.chahar@antino.com/careers@antino.com , ananya.s@antino.com",UG ALL,,6.5
+84,Accolite,Neha EE,Done ,OPEN,,Rachna Sahani,9760235656,rachna.sahani@accolitedigita.com,"COE,IT,ECE,EE","COED,ECE,EED SVLSI,MCA",8
+85,AB in Bev,Ankush Narwal,Done ,OPEN,,Abhinav Kumar,7829659053,abhinav.kumar@in.ab-inbev.com,"EE,ECE,ME,PIE",,15
+86,SAARTHEE - Actionable Insights,Ankush Narwal,Done ,CLOSE,3,"Apurva bhattacharya, Roshni Kumari","8789288365, 8789351077",apurva.bhattacharya@saarthee.com,UGALL,,15
+87,SIEMENS,Anshuman Burah,Done ,OPEN,,"Ajay brahmbhatt, Trupti, Dewoolkar","7045466935, 9004902885","ajay.brahmbhatt@siemens.com, trupti.dewoolkar.ext@siemens.com",,"EED,MED, CE",9
+88,Larsen & Toubro Ltd.,Kartik Rai,Done ,CLOSE,,Bhagyalakshme,8189996905,bhagyalakshme.narayanan2larsentoubro.com,ALL,M.tech,6.25
+89,"Think Exam, AGinger Webs Company",,,OPEN,,"Sneha Arora, Apurva Chhaparwal","8178955693, 9001549840","sneha.arora@gingerwebs.in, apurva.chhaparwal@gingerwebs.co.in",,MBA,3
+90,Deltax,Udit ,Done ,OPEN,,Radhika Kumbhar,9137485970,radhika.k@deltax.com,"COE,IT",,7
+91,Schneider Electric,Neha,Done ,CLOSE,,Vikram Goyal,7204089892,vikram.goyal@se.com,EE,"PS,PED",12.5
+92,Samsung,Ankush Narwal,Done ,CLOSE,,Ruby Kumari,8800910046,ruby.kumari@samsung.com,"EE,ME,CE",,8
+93,Mathworks India Pvt. Ltd.,Varun Saproo,Done ,OPEN,,Simran Sood,9561410171,simrans@mathworks.com,,"COED,ECE,EED,SVLSI",24
+94,Helium Consulting Pvt. Ltd.,Saketh,Done ,OPEN,,Mausam Gathutia,7909049940,hr@heliumconsulting.com,all (not pie),,7
+95,Jindal Steel  Ltd,Ankush Narwal,Done ,CLOSE,,Vikaram Singha Aayush Khatri,"9810102421, 9425948153","vikram.singh1@jindalstainless.com, ayush.khatri@jindalstainless.com","EE,ME",,7
+96,Techmatrix consulting,Jhansi,Done ,OPEN,,Praveen Kumar,9810382123,praveen.k@techmatrixconsulting.com,,MCA,5
+97,Sprinklr,Shreya Bansal,Done ,CLOSE,,Pranjal Sharma,8287246687,pranjal.sharma@sprinklr.com,"ECE,EE,ME,PIE,CE",,12
+98,PlanetSpark,Shreya Bansal,Done ,OPEN,,Akshat Bhagat,8582805912,akash.bhagat@planetspark.in,"COE,IT,ECE,EE,ME,PIE,CE",ALL,6.5-7.5
+99,Info edge,Hariom/Udit,Done ,OPEN,,Ishita Gupta,8081226785,ishita.gupta@naukri.com,ALL,,12
+100,LG Electronics India Pvt. Ltd.,Shubham Singh,Done ,OPEN,,"Dinesh Tewari, Puneet Dua","9811354376, 9899302972","dinesh.tewari@lge.com, puneet.dua@lge.com","EE,ME,PIE","ECE,EED,THER,PIE,SVLSI",9.6
+101,WSP Consultant India Pvt. Ltd.,Sushmita Roy,Done ,OPEN,,Madhur Bhatt,8126924244,madhur.bhatt@wsp.com,,Civil,6.5
+102,Intellipaaat,Later,,OPEN,,Manjunath. V,7676126889,manjunath.v@intellipaat.com,ALL,ALL,7.25
+103,Sun Life Global Solutions,Udit ,Done ,OPEN,,"Arjun Kumar Chatterjee, Ms Geeta Sharma","9821140905, 9899444454","arjun.chatterjee@sunlife.com, geeta.sharma@sunlife.com","COE,IT",,7.25
+104,Fantaclaus Technologies Pvt. Ltd.,Shreya Kundu,Done ,OPEN,,"Sukrit Goel, Swati jain Goel","9005332211, 9717597378","sukrit@fantaclaus.com, swati@fantaclaus.com","COE,IT,ECE,EE,ME",COED,6.5
+105,Brane Enterprises NSL Hub,Swapnil,Done ,OPEN,,Swathi koundinya Aditi Rao,"9652191393, 9177294639","swathi.k@braneenterprises.com, aditirao.manupadi@braneenterprises.com","COE,IT,ECE,EEE",,13
+106,UsefulBL Pvt. Ltd.,Rahul Shah,Done ,CLOSE,,"Niharika Srivastava, Nainy Jain",8527363233,niharika.srivastava@usefulbi.com,"COE,IT","COED, MCA",5.00-8.00
+107,MyWays Life Layout Pvt. LTd.,Abhishek PIE,Done ,OPEN,,Preeti Karn,7669699297,preeti.k@myways.ai,ALL,ALL,7.00-9.00
+108,Matte Motor Works,Abhishek Thakur,Done ,CLOSE,,Tanya Singh,6291884929,tanya.singh@matter.in,AL not civil,"COED,ECE,EED, ME,MBA,SVLSI,RES",7.5
+109,Tata Power,Neha,Done ,CLOSE,,Anjali Gatti,7016524814,anjani.gatti@gmail.com,EE,-,5.9
+110,Vista Consoles Electronics Pvt. Ltd.,Shalini Maurya,Done ,CLOSE,,Anushree,8229740173,anushree@vistaconsoles.in,"EE,ME",-,8
+111,BML Munjal University,Anshul Tailor,Done ,OPEN,,"Maneek Kumar, Manish Gautam","8146553212, 8802007352","maneek.kumar@bmu.edu.in, manish.gautam@bmu.edu.in",,phd,12
+112,Tetrapak,Ankush Narwal,Done ,OPEN,,Sushanth Suvarna,9370629991,sushanth.suvarna@tetrapak.com,"ME,pie",MED,7
+113,Parul University,Anshul Tailor,Done ,OPEN,,Priti Jaiswal,9405652677,placement@paruluniversity.ac.in,"coe,it",-,
+114,Saint  Gobain,Ramswroop,Done ,OPEN,,,,na,CIVIL,,5
+115,Global 13 Digital Pvt. Ltd.,In Jan 2024,,OPEN,,Raman Pahwa,9313411011,hr@globe13.com,"COE,IT,ECE","COED,MBA",3.5
+116,Havells India Ltd.,Anshuman Burah,Done ,OPEN,,"Parveen Singh, Prem Yadav","9313075155, 8527611011","parveen.singh@havells.com, prem.yadav@havellsc.om",,"ECE,EED,MED",8.5
+117,MAQ Software,Shreya Kundu,Done ,OPEN,,"Ankita pandey, Aarushi Gupta","9696213917, 8376869556","ankitap@maqsoftware.com, aarushig@maqsoftware.com","COE,IT",,10
+118,Tescra Software Pvt. Ltd.,Shreya Kundu,Done ,OPEN,,Moses,9884562525,moses.k@tescra.com,ALL,AALL,8.8
+119,Tetrahedron Manufacturing Service Pvt. ltd.,Abhishek Bishnoi,Done ,OPEN,,Priya Dwivedi,7873092278,"hrd@tetrahedron.in, hrd.tetrahedron@gmail.com","COE,ECE,ME,PIE","ECE,MD,PIE,MCA,MBA",
+120,Fluor Daniel india Pvt. Ltd.,Ankush Narwal,Done ,OPEN,,Disha Singh,9810201628,disha.singh@fluor.com,"ECE,EE,ME,CIVIL",,7.65
+121,Exicom Tele Systeme Ltd.,Neha,Done ,CLOSE,,Amardeep Singh Monika Thakur,"9999777461, 7876006862","amardeep.singh1@exicom.com, monika.thakur@exicom.in","ECE,EE,ME",,7
+122,Honda R&D Pvt. Ltd.,Neha,Done ,CLOSE,,Naresh Yadav,9873932757,naresh.yadav@horizonconsulting.in,EE,,10
+123,CNH Industrial,Sumit ,Done ,CLOSE,,Kavya Tayal,9650427015,kavya.tayal@cnhind.com,"COE,IT,ECE,ME",,7.00-10.00
+124,Delloite India,Jhansi,Done ,CLOSE,,"Rantu Girisa, hari Menon","9176065243, 9833800736","rgirisa@deloitte.com, harimenon@deloitte.com","COE,IT,EE,EE,ME,CE","COE,MCA",7.6
+125,Copperpod IP,Swapnil,Done ,OPEN,,"Anubhav Garg, Purva Sharma","7973929239, 7559446213","anubhav@coperpodip.com, purva@copperpodip.com",,"COE,ECE",6.25
+126,Rishihood University,Anshul Tailor,Done ,OPEN,,"Keyur Satra, Adhirsh K Madhu","7021463609, 9544484649","keyurr.satra@newtonschool.co, adhirsh.madhu@newtonschool.co",,,10.00-12.00
+127,EXL,Sumit ,Done ,CLOSE,,"Chandni saxena, Shantanu Verma, Dhruv Yadav","9818037329, 8630617688, 9871390129","chandni.saxena@exlservice.com, shantanu.verma@exlservice.com, dhruv.yadav@exlservice.com",ALL,,6.5
+128,Factspan Analytics,Anshul Tailor,Done ,OPEN,,"Seenia Sajan, Puneeth Kidiyoor","9637084220, 9164982371","campusconnect@factspan.com, seenia.sajan@factspan.com, puneeth.kidiyoor@factspan.com",-,PG ALL (Not civil and RES),
+129,CORIZO EDUTECH,Abhishek pcc,Done ,OPEN,,Rani Sanjay Sharma,7259474513,rani.hr@zorizo.co.in,ALL,ALL,6.5
+130,Cyfuture India Pvt. Ltd.,Nehal Sharma,Done ,OPEN,,"Anukriti Chauhan ,Meanka Handu","7404607621, 9845375208","placement@cyfuture.com, meanka.handu@cyfuture.com",,MBA,8
+131,Xenonstack Pvt. Ltd.,Swapnil,Done ,CLOSE,,"Amrita Singh, Preeti sharma","9815744707, 8557920005","amrita.singh@xenonstack.com , preeti@xenonstack.com","COED,IT","COED,MCA`",7.5
+132,Tata Consultancy Services, Rahul,Done ,CLOSE,,"Gauri upadhyay, Tejeswini Singh",8826670124,"gauri.upadhyay@tcs.com, tejeswini.singh@tcs.com",ALL NO CIVIL,"ALL (NOT CIVIL,NANO,MBA,MCA)",11.5
+133,Stanza Living,Shalini Maurya,Done ,OPEN,,Dhairya Rogha ,9549142168,dhairya.rogha@stanzaliving.com,"COE,IT,ECE,EE",,10
+134,EZ,Rahul Shah,Done ,OPEN,,"Shweta Dwivedi, Divya Anand","9711889358, 9650566938","shweta.dwivedi@ez.works, divya.anand@ez.works",,MCA,5
+135,Fiserv India  Pvt. Ltd.,Tarun,Done ,OPEN,,"Debasis Das Monika Bakshi, Gargi Verama","9873717974, 9910027113, 9773922712","debasis.das@fiserv.com , monika.bakshi@fiserv.com, gargi.verma@fiserv.com","COE,IT,ECE",,13.75
+136,SRM Institute of Science and Technology,Anshu Tailor,Done ,OPEN,,Ranjith Kumar,9445121301,hr.regoff@srmist.edu.in,,,10.8
+137,Accenture,Swapnil,Done ,CLOSE,,"Radhvi,Epsa","8121991855, 8976019983","epsa.karan@accenture.com, r.radheyshyam.tiwari@accenture.com",ALL,,10
+138,Star health Allied Insaurance,later,,OPEN,,,,,"ECE,EE,ME",MBA,4
+139,Unacademy,Ankush Narwal,Done ,OPEN,,Maithri Umesh,"9632105361, 9880553525",tpa-umesh.maithre@unacademy.com,ALL,ALL,8
+140,Neenopal Inc.,Sumit/Udit,Done ,OPEN,,"Lavi Srivastava, betsy.T. Abraham","8630806108, 9773692198","lavi.srivastava@neenopal.com, betsy.abraham@neenopal.com",ALL,"COED,MCA",9
+141,Vizexpert,Udit ,Done ,OPEN,,"Dimple Gulati, Vaibhav bansal","9560513758, 8860786252","dimple@vizexperts.com, vaibhav@vizexperts.com","COE,IT",,2023-08-10 00:00:00
+142,Axiphyl Pvt. Ltd.,later,,OPEN,,"Radha, Pragathi",819869796,ppaila@axiphyl.com,"COE,IT,ECE,EE,ME",,5
+143,JK Cement,Kartik Rai,Done ,OPEN,,Ishita Gupta,9805510319,ishita.gupta@jkcement.com,"EE,ME,CE",,6.1
+144,Perfios Software Solutions,Udit ,Done ,OPEN,,"Puja Chavan , Muskan Jaiswal","8976929643, 7000614318","puja.c@perfios.com, muskan.j@perfios.com",ALL (Not PIE),,14.5
+145,iTinker (Namya Future Technologies),Jhansi,Done ,OPEN,,"Sparsh Jain, Sudeep Gulati","8447531732, 9888936712","sparsh@itinker.io, sudeep@itinker.io","COE,IT",MCA,6.5
+146,Intel Technology India Pvt. Ltd.,Shalini Maurya,Done ,CLOSE,,Rohit Mathew,8310344498,rohithx.mathew@intel.com,"ECE,EE","ECE,PS,PED,SVLSI,ISNT.NANO",
+147,Decision Point Pvt. Ltd.,Jhansi,Done ,CLOSE,,"Hamid Husian, Mansi Mehrotra","9711917707, 7068111996","hamid.husain@decisionpoint.in, mansi.mehrothra@decisionpoint.in","ALL (not pie,ce)","coed,mca,mba",
+148,Pace Stock Broking services Pvt. Ltd.,Shalini Maurya,Done ,OPEN,,"Priya Gupta, Harendera Singh","700407898, 6396536778","priyagupta@pacefin.in, harendra@pacefin.in","COE,EE,ECE",MCA,39
+149,Mckinley Rice,Swapnil,Done ,OPEN,,Isha Chauhan,9460483001,ccd,ALL,"COED,ECE,MCA",6
+150,Renata Precision Components Pvt. Ltd.,Swapnil,Done ,OPEN,,Rohini Bhalerao,9356932268,,,"PIE,MBA",6
+151,Agumentik Group of Companies,later,,OPEN,,Anup Vishal,8069640295,anupvishal@agumentik.com,ALL,All,
+152,Godrej & Boyce  Manufacturing Co. Ltd.,Abhishek ,Done ,CLOSE,,Tijo Jacob Thomas,9167306115,tijojit@godrej.com,"ECE,ME,PIE,CEVIL",,
+153,Physics Wallah Pvt. Ltd.,Ankush Narwal,Done ,OPEN,,"Samridhi Goyal, Shivani Shrivastava","6367428091, 7461082598","samridhi.goyal@pw.live, shivani.shrivastava@pw.live",ALL,ALL,6
+154,Neometrix Engineering Pvt. Ltd.,Sumit ,Done ,OPEN,,Madhulata,7290012356,hr@neometrixgroup.com,"ECE,ME,EE","PED,THER,PIE",5
+155,Jio Platform Ltd.,Neha,Done ,OPEN,,Charu Vashisht Singh,9826543263,charu.singh @ril.com,ECE,,8.5
+156,ASC Infratech,Sushmita Roy,Done ,CLOSE,,"Jitendera Singh, Deepika Gaur","8800852303, 9582793915","hrd@ascinfratech.com, hr@ascinfratech.com",CIVIL,STR.,6.09
+157,Stellantis,Anshuman Burah,Done ,OPEN,,"Sudheer Babu, Binesh V","6305675073, 9962238009","sudheerbabu.kantimahanthu@stellantis.com, binesh.vatakkepat@stellantis.co",,"COED, ECE, EE,SVSLI, INST",7.6
+158,LT Foods,Ankush Narwal,Done ,CLOSE,,"Sukriti Malik, Charu Gosain","9810864793, 9812810176","sukriti.malik@ltgroup.in, charu.gosain@ltgroup.in","EE, ME",,7
+159,Zenarate India Pvt. Ltd.,Swapnil,Done ,CLOSE,,Menka Sindhu,8700605967,"menkas@naehas.com, menka@zenarate.com","COE,ITE",MCA,11.25
+160,221B Baker Street,Swapnil,Done ,OPEN,,Souradeep Mondal,8768537056,souradeep1@twotwo1bbs.com,ALL,ALL,3.84-6.00
+161,Varroc Engineering Ltd.,Abhishek,Done ,OPEN,,Smitha Menon,9028254623,smitha.manon@varroc.com,,"cyber, ECE,EE,ther.Inst.",14.5
+162,Dixon Technologies India Ltd.,Sumit,Done ,OPEN,,"shweta Sharma, Diaa","9716973214, 6284569076","shweta.sharma@dixoninfo.com, diaa@dixoninfo.com","EE,ECE,ME",,8
+163,Amway Global Services India Ltd.,Kaushal Tiwari,Done ,OPEN,,Anushree,9810347436,anushree.jaiswal@amway.com,,MNA,15
+164,Affle India Pvt. Ltd,Sakth,Done ,OPEN,,Kanchan Sharm,9625902158,kanchan.sharma@affle.com,,,
+165,Shriram Pistons & Rings Ltd.,Ankush Narwal,Done ,OPEN,,Tina,9899692944,tina.ohson@shrirampistons.com,"EE,ME,PIE","EED, ME",8
+166,Bakliwal Tutorials,Ankush Narwal,Done ,OPEN,,"Priyansha Srivastava, Madhuri Savakar","8799913609, 7888055562","hr@bakliwaltutorialsiit.com, bthrpune@gmail.com",ALL,ALL,6
+167,Airliquid.com,Sumit,Done ,OPEN,,"Vaishali Sehrawat, Sangeeta Prasad",8700987492,"vaishali.sehrawat@airliquid.com, sangeeta.prasad@airliquid.com","EE,ME,PIE,CE","PS,THER,MD,STR.",9
+168,IFB Industries Ltd.,Ankur Meena,Done ,OPEN,,"Vaishvambhara Murthy, Melanie Nisha Soares","8657413944, 9168076893","vaishvambhara_murthy@ifbglobal.com, melanie_nisha@ifbglobal.com","EE,ECE,ME,PIE",,6
+169,K&A Engineering Consulitng P.C.,Ankur Meena,Done ,OPEN,,,,,EE,,8
+170,Grazitti Interactive (Already Sr. No. 79),Shreya Bansal,Done ,OPEN,,"Kavita Chugh, Shikha Gupta","7986504338, 9910030694","kavita.rani@grazitti.com, shikhag@grazitti.com","COE,IT","COED, MBA",8.00-12.00
+171,Neolite ZKW Lightings Pvt. Ltd.,Ankush Narwal,Done ,CLOSE,,"Harsh Madan, Diksha Gupta","9717775965, 6387991206","harsh.madan@neolitezkw.com, diksha.gupta@neolitezkw.com","ME,PIE",,4.2
+172,Hexaware Technologies,Tarun Yadav,Done ,OPEN,,Veeralakshmi N,9941950121,veralakshmin@hexaware.com,"COE,IT,ECE,EE",,15
+173,MeticBooks,Shreya Bansal,Done ,OPEN,,Himanshu Maurya,9506583421,"himanshu.maurya24@gmail.com, hiring@metricbooks.in","COE,IT,ECE",,15.00-25.00
+174,DDSPLM Private Ltd.,Abhishek,Done ,OPEN,,Yashika Hemlani,9319788144,yashika.hemlani.ea@ddsplm.com,"IT, ME, PIE","MBA,MCA",6.5
+175,Pyzaql Edutech Private Ltd.,To be later,Done ,OPEN,,Vidhya C,8095303276,vidhya.c@pyzaql.com,ALL,"COE,ECE,MCA,MBA",
+176,Samsung Research and Development Institue india  Delhiq,Shalini Maurya,Done ,OPEN,,Akshita Singh,9140740328,singh.ak@samsung.com,"COE,IT,ECE,EE","COED,ECE,EE",15.5
+177,Ideametrics Pvt. Ltd.,To be later,,OPEN,,"Mr. Mohseen Satarmaker, Siddhesh more","9922764645, 9075257071","satarmaker.mohseen@ideametrics.co.in, more.siddhesh@ideametrics.co.in","ME, PIE1",MD,6
+178,Allen Career Institute Pvt. Ltd.,Ankush Narwal,Done ,OPEN,,"Parikshit Sharma , Deepak Tiwari","9214035254, 9041216386","parikshit.sharma@allen.in, hr@chandigarh@allen.in",ALL,ALL,6
+179,Realty Smartz Pvt. Ltd.,Nehal Sharma,Done ,OPEN,,Anchal Rathee,8826069207,anchal.rathee@realtysmartz.in,,,6
+180,Hitachi Energy,Prabhat Singh,Done ,OPEN,,Serena Fernandess,8591420245,Serena.fernandes@hitachienergy.com,,PS,9
+181,Brahmos Aerospace Pvt. Ltd.,Ankush Narwal,Done ,CLOSE,,Nisha,1142285105,hrcampusrecruitment@brahmos.com,"COE,ECE,ME",,17
+182,Delhivery Limited,Gautam,Done ,OPEN,,"Jonathan Young , Bhavika Chhabra","7385823123, 8368694781","jonathan.young@delhivery.com, bhavika.chhabra@delhivery.com","PIE,CEVIL",,6
+183,Signalchip Innovations Pvt. Ltd.,Swapnil/Pooja,Done ,OPEN,,"Pradeep Jana , Sukrutha HK Bharadwaj","8699333022, 9900363588","pradeep.jana@signalchip.com, sukruth@signalchip.com","COE,ECE,EE,","COED,ECE,EED",11
+184,Engineers India Ltd.(PSU),Ankush Narwal,Done ,OPEN,,Thathagat Sahoo,1126763297,tathagat.sahoo@eil.co.in,"COE,IT,ME,CE,EE","GEO, ME,STR.",11
+185,JBM Electric Vehicles Pvt. Ltd.,Ankush Narwal,Done ,CLOSE,,Gunjan Rawat,9711347001,gunjan.rawat@jbmgrop.com,"ECE,EE,ME,PIE","ECE,PS,PED,MD",8
+186,Afcons Infrastructure Limited,Deepanshu,Done ,CLOSE,,Abhijit Vasant Kamthe,9890059105,abhijit@afcons.com,CE,,5.4
+187,Sri Chaitanya Eductional Institure,Ankush Narwal,Done ,OPEN,,N. Shirley,9100121285,shirley.n@varsitymgmt.com,"EE,ME,CE","COE,EED,ME,CEVIL PHY.",
+188,Metso India ,Sumit,Done ,CLOSE,,Ujwal Srivastav Ravi Sharma,"8376909750, 8826979595","ujwal.srivastav@metso.com, ravi.sharma1@metso.com",ME,,5
+189,FITJEE,Shreya Bansal,Done ,OPEN,,"Ashish Kr. Aggarwal, Geetanjali","9810405910, 7217890873",corporate@fiitjee.com,ALL,,30
+190,Alcom Extrusions Pvt. Ltd.,Swapnil,Done ,OPEN,,Pavani D,728644938,hrindia@gatecorpus.com,ME,"MD, PIE",
+191,Iterate Technologies GmbH,Shreya Bansal,Done ,OPEN,,Aashwin Shrivastav,9818850505,aashwin@iiterate.de,"COE,IT,ECE,EE","COED,MCA",36.22
+192,Kansai Nerolac Paints Ltd.,Sumit PCC,Done ,OPEN,,"Chirag Dhawan, Sumedh Pradhan","8097565338, 7057443539","chiragdhawan@nerolac.com, sumedhpradhan@nerolac.com","ME,PIE",,5.5
+193,Systra,Manoj Kumar,Done ,OPEN,,Meghna Singhee,9873127303,msinghee@systra.com,,"EED,MED,CE",5.5
+194,Jacob Solutions India Pvt. Ltd.,Sushmita Roy,Done ,OPEN,,Mansi Bhandari,9372754270,mansi.bhandari@jacobs.com,"EE,ME`","PS,CS, STR",6
+195,Algo Energytech Ventures Pvt. Ltd.,Tarun Yadav,Done ,OPEN,,Tiasha Guchhait,9741314330,tiasha.guchhait@xempla.io,"COE,IT",COED,12.00-15.00
+196,KEC International,Deepanshu,Done ,CLOSE,,"Reshma Sawant , Damini Merchant",8169886569,"sawantrm@kecrpg.com, merchantd@kecrpg.com","EE,CE",,6.5
+197,AXIS IIT/NEET,Abhishek,Done ,OPEN,,Sanika Tamhane,9619780746,tamhane.sanika@mahindra.com,"COE,IT,EC,ME","COE,EED,ECE,ME,R",13
+198,ISGEC Hitachi Zosen Ltd.,Ankush Narwal,Done ,CLOSE,,Amit Verma ,7046800999,amit.verma@isgechitachizosen.com,ME,PIE,33000PM
+199,Tata Electronics Pvt. Ltd.,Sumit,Done ,CLOSE,,Nayana Reddy P,6383743378,nayana.rp@tataelectronics.co.in,"ME,PIE",,
+200,Smt. S.R. Patel Engineering College Unjha,Anshul Tailor,Done ,OPEN,,"Amit P Tiwari, Vikram Gupta","8577063959, 8764297687",hr@srpec.org,,"COED, ME, RES, CE",6
+201,Avanti Fellows,Abhishek,Done ,OPEN,,"Pooja Bhandari, Sonam Nagar","8727982061, 7082531523","poojabhandari@vantifellows.org, sonam@avantifellows.org",ALL,M.tech,5.00-6.50
+202,Colleagues Consultants P4rivate Limited,Deepanshu,Done ,OPEN,,"Ishita Gaur, Dhruv Kumar","9311403461, 9910994963","hr@colleagues.co.in, dks@colleagues.co.in",CE,STR.,5.2
+203,Euler Motors,Ankush Narwal,Done ,OPEN,,Adesh Dubey,8130402002,adesh.dubey@eulermotors.com,PIE,"CS, THER,PIE, RES, ESD",8
+204,Leaning Routes Private Limited,Nehal Sharma,Done ,OPEN,,"Aakriti Bhatnagar, Kshitij Puri","7428970671, 8655869199","aakriti.b@learningroutes.in, kshitij.p@learningroutes.in",,,6.3
+205,Vedantu,Akash Deshmukh,Done ,OPEN,,Anice Pauly ,9656923318,anice.pauly@vedantu.com,"COE,ECE,EE,ME,CE",M.Tech,
+206,Proxelera Pvt. Ltd.,Abhishek Patel,Done ,OPEN,`,"Vijay Kumar, Pushpa V","9845155132, 9845952516","vijay.nd@proxelera.com, gen-admin@proxelera.com","COE,ECE","COED, ECE,EE,,SVLSI",5.00-8.00
+207,Noida Power Company Limited,Neha Sharma,Done ,OPEN,,"Prateek Tripathy, Sandeep Rai",8750068228,ptripathy@noidapower.com,EE,,7
+208,GoComet,Nehal Sharma,Done ,OPEN,,Priyanka Soankamble,7021811552,priyanka.soankamble@gocomet.com,,MBA,6.5
+209,Farmart Pvt. Ltd.,Nehal Sharma,,OPEN,,"Jyoti Verma, Kanderp Goel","9911636158, 9538850742","jyoti.verma@famart.co, kanderp.goel@farmart.co",,,
+210,HCL Software,Kaushal Tiwari,,OPEN,,"Poonam Sharma, Ashish Bhalla",7838476530,"poonam-sharma@hcl.com, ashish.bhalla@hcl.com",,COED,18
+211,SRM University,Anshul Tailor,Done ,OPEN,,"Sivaranjan T , S. Riaz",97907335079031996416,"sivaranjan.t@srmap.edu.in, riaz.s@srmap.edu.in",,,12.00-17.28
+212,Intellipaat,Abhinav Baweja,Done ,OPEN,,Manjunath,7676126889,manjunath.v@intellipaat.com,ALL,ALL,
+213,BEML,Ankush Narwal,Done ,OPEN,,"Neena Singh, R.S. Hari","9535180078, 9036873508","neena.singh@bemlltd.in, recruitment@bemlltd.in","EE, ME",,9.8
+214,Subros,Ankush Narwal,Done ,OPEN,,Abhishek Upadhyay,9810020650,abhishek.upadhyay@@subros.com,EE<ME<PIE,MBA,6.00-7.00
+215,Maruti Suzuki India ltd,Ankush Narwal,Done ,CLOSE,,Shashank Kumar,9873053684,shashank.kumar3@maruti.co.in,"EE,ME",,9.2
+216,BPCL,Ankush Narwal,Done ,CLOSE,,Harshita Jain,8447843827,harshitajain@bharatpetroleum.in,"ME,Coe",,19.48
+217,Tecnimont Private Limited,Ankush Narwal,Done ,CLOSE,,Kaushik Das,8108902037,k.das2@tecnimont.in,ME,,5.5
+218,BCH Electric Ltd.,Akhil Sharma,Done ,,,Palvi,7042678871,palvi.bchindia.com,ALL Not Civil,,6
+219,NBC Bearing ,Sumit ,Done ,CLOSE,,Vishal Mitra,8800944661,vishal.mitra@nbcbearing.in,"EE,ME,PIE",,5.8
+220,SAP Labs India,Jhansi Mahato,Done ,CLOSE,,Dilip,953825960,dilip.kumar.k01@sap.com,"COE,IT,ECE",na,29.16
+221,Alliant Group,Anjay ,Done ,CLOSE,,bharath Pasam,7207070278,pasam.bharath@alliatngroup.com,"EE,ME,PIE",,5.5
+222,GLA University,Anshul Tailor,Done ,OPEN,,"Janmejay Mishara, Priyanka Agarwal","9871826201, 8126871304","janmejay.mishra@gla.ca.in, agarwal.priyanka@gla.ac.in",,"coed, PhD.",12
+210,HCL Tech,Ankush ,Done ,OPEN,,"Poonam Sharma, Ashish Bhalla",7838476530,"poonam-sharma@hcl.com, ashish.bhalla@hcl.com","ECE,ME","ECE,MD,PIE,VLSI",
+224,Bayone Solutions Inc.,To be later,,OPEN,,Jayesh atheria,8320486941,kjayeshkumar@bayonesolution.com,"COE,IT,ECE,ME","COED,ECE,EED,",3
+225,75 Way Technolo,Deepanshu,Done ,OPEN,,Suparna Mukherjee,9501706475,hr@75way.com,"COE,IT,ECE",,4.2
+226,Z1 Tech,Udit ,Done ,OPEN,,"Nupur Gupta, Malvika Saxena","7217752170, 8800241241","gnupur@z1tech.com, talent@z1tech.com, malvika@z1tech.com","COE,IT,ECE",MBA,7
+227,BluePine Energy,Neha,Done ,OPEN,,Ruhi Guptaq,9873543432,ruhi.gupta@bluepineenergy.com,EED,na,6
+228,United Airlines,Udit ,Done ,CLOSE,,"Shreya Swati, Joseph Daniel","9560781006, 9560770555","shreya.swati@united.com, dainel.joseph@united.com",ALL,,8.5
+229,Titan,Swapnil,Done ,CLOSE,,Aditi Dixit,9145486954,aditidixit@titan.co.in,"COE,IT",na,10
+230,Escorts Kubota,Swapnil,Done ,CLOSE,,Ruchika Sharma,9650606825,ruchika.sharma2@escortskubota.com,PIE,,7
+231,Kalpataru Projects International Ltd.,Sumit,Done ,CLOSE,,Suprity Sarkar,8080877857,suprity.sarkar@kalptaruprojects.com,"EED, CE",,4.5
+232,NAB Innovation Centre India,Udit ,Done ,CLOSE,,"Monika Nigam, Mukesh Gulati","8577867409, 9990865112","monika.nigam@nab.com.au, mukesh.gulati@nab.com.au",all,,11
+233,Anakin Skywalker Pvt. Ltd.,Shalini Maurya,Done ,OPEN,,Chitra.S,6363036708,chaitra.s@anakin.company,"COE,IT,ECE,EE",,9
+234,PP Savani University,Anshul Tailor,Done ,OPEN,,-,-,-,CSE,-,-
+235,Scintillation Research and Analytics Services Ltd.,Shalini Maurya,Done ,OPEN,,Kashish Sahrma,8360675053,hr@sraas.com,ece,ece,4.5
+236,Anand Group,Abhishek,Done ,OPEN,,Srishty Kukreti,8791182948,srishty.kukreti@anandgroupindia.com,ALL (not civil),"ECE,ME",12
+237,CL Educate ,Pooja Yadavwd,Done ,OPEN,,Muskan Khurana,8368716691,muskan.khurana@careerlauncher.com,ALL,ALL,8
+238,HLS Asia,Prabhat Singh,Done ,CLOSE,,Krunal Surti,9510222705,krunal.surti@hlsasia.com,"EE,ECE,ME,PIE","ECE,EE,THER,",
+239,Armorcode India Pvt. Ltd,Shreya Bansal,Done ,CLOSE,,Khyati Mistry `,9879338004,khyati.mistry@armorcode.io,"COE,IT,ECE",,25.95
+240,"Bank of New York, Mellon",Shreya Bansal,Done ,CLOSE,,Morris Paul Rathnaraj,7667270662,morris.rathnaraj@bnymellon.com,ALL,26.64,
+241,ACME Group,Ankush Narwal,Done ,OPEN,,Md. Aamir,8125661801,md.aamir@acme.in,"EE,ME,PIE,Ce",,8.25
+242,Aliens Group,Ankush Narwal,Done ,OPEN,,Anupma M,7337363474,anupama.m@aliensgroup.in,"ECE,EE,ME,PIE,CE",,8
+243,Ecosense Sustainable Solutions Pvt. Ltd.q,Anshuman Burah,Done ,OPEN,,Abhishek Manglick,9910166999,amangalick@ecosenseworld.com,,EE,10
+244,Cloutflow,Tarun,Done ,OPEN,,Shivam Arora,9560288563,shivam@cloutflow.com,"COE,IT",,12
+245,Pregrad Pvt. Ltd.,Nehal Sharma,Done ,OPEN,,Harshita Panwar,9205004073,harshitapanwar.hr@pregradcampus.in,ALL,"coe,ece,civil mba,mca,chemistry ",
+246,Shorthills AI,Abhishek Bishnoi,Done ,OPEN,,"Amisha Jaiswal, Supriyaq","9205266630, 8588817916","campus@shorthills.ai, supriya@shorthillstech.com",ALL,ALL,
+247,Intellipaath,Nehal Sharma,Done ,OPEN,,Manjunath ,7676126889,manjunath.v@intellipaat.com,ALL,ALL,7.25
+248,Coperion Ideal Pvt. Ltd.,Sumit,Done ,OPEN,,-,-,-,"EE,ME`",,5
+249,OneBanc Technologies Pvt. Ltd.,Nehal Sharma,Done ,OPEN,,Tanvi Agfgarwal Anubhav Narula,"8168998196, 9760177533","tanvi.aggarwal@onebanc.ai, anubhav.narula@onebanc.ai",ALL,ALL,20
+250,Indexing Operation Pvt. Ltd.,Abhishek Bishnoi,Done ,OPEN,,"Surbhi Mehta, Shweta Chawla","8696961357, 9650941199","surbhim@indxx.com, schawla@indxx.com","COE,IT,ECE",na,8
+251,Avaada Group,Abhishek Bishnoi,Done ,OPEN,,Shilki Bharadwaj,7065500228,shilki. bharadwaj@avaada.com,"EE,CE","EED, STR, Soil, MBA",7
+252,Codeyoung,Nehal Sharma,Done ,OPEN,,Neha,8129440187,nehadinesh@smaowl.com,-,-,-
+253,ICFAI,Anshul Tailor,Done ,OPEN,,"Recruitments, Director, HR","9966415568, 9160003066",-,"COE,","coe,ece,civil mba,mca,chemistry ",
+254,Alpha Test House Pvt. Ltd.,To be later,Done ,OPEN,,"Nilam Kumar , Amandep Kumarq","8826215296, 7838741406",support@alphatesthouse.com,"ECE,ME,CE",-,-
+255,FNZ Pvt. Ltd.,Shalini Maurya,Done ,OPEN,,Harsh Veer,"8279721912, 9910307762",harsh.veer@fnz.com,ALL,,10
+256,Girnar Soft Education Pvt. Ltd.,Anshul Tailor,Done ,OPEN,,"Aishwarya Pandita, Simardeep Singh","9140570456, 8528750790","aishwarya.pandita@collegedunia.com, simardeep.singh@collegedunia.com",,"COED, MD and Phd",6
+257,Concept Dash,Deepanshu,Done ,OPEN,,Shivani Raina,9796060788,shivani@conceptdash.ca,,"WRE,Trns,STR",3.9
+258,ESync,Sumit,Done ,OPEN,,Sanat Ullah Khan,8960220029,sanatullah.khan@heromotors.com,"COE,IT,ECE","COED, EE,ESD",8
+259,Galgotias University,Anshul Tailor,Done ,OPEN,,"Sarika Chaudhary, Shilpi Chandra","9808401836, 9873472522","sarika.chaudhary@galgotiasuniversity.edu.in, hr@galgotiasuniversity.edu.in",,"MBA,MCA,COED",5
+260,Ediglobe,Ankush Narwal,Done ,OPEN,,Akshara B,8073915265,akshara.b@ediglobe.com,ALL,ALL,7
+261,Edustation,Deepanshu,Done ,OPEN,,"Hemalatha, Geetha","6372424257, 8317389984","hema@edustation.co.in, geetha@edustation.co.in",ALL,ALL,9
+262,Zavya,Swapnil Sahu,Done ,OPEN,,Priyanshi Parasar,9981334187,team@crossinghurdles.com,ALL,ALL,10
+263,NPCI (National Payment Corporation India),Saketh,Done ,OPEN,,Swapnil Patil,8291885568,swapnali.patil@npci.org.in,"COE,IT",,16.15
+264,Tek Travel,Nehal Sharma,Done ,OPEN,,Anand Babu,7097589450,anand.babu@tbo.com,,MBA,6
+265,Adani Group,Sumit,Done ,OPEN,,Mohan Jadhav,792557138,mohan.jadhav@adani.com,"EE,ME,PIE",,6.5
+266,Tigris Mobility Pvt. Ltd.,Ankur Meena,Done ,OPEN,,Arpit Gupta,9910800271,hr@tigrismobility.com,"ECE,EE,ME,PIE","ECE,EE,ME,",4.8
+267,Altudo,Shalini Maurya,Done ,OPEN,,"Namrata Chopra , Tej Mishra","7837998245, 9569902425",namrata.chopra@altudo.co tej.mishra@altudo.co,"COE,IT,EE",COED,8
+268,Syrma SGS Technology Ltd.,Deepanshu/Nehal,Done ,OPEN,,Vidhi Verma,6261709339,vidhi.verma@pluginlive.com,"COE,IT,ECE",,7
+269,Engie India,Shalini Maurya,Done ,OPEN,,"Medha Ranjan, Shreya Bishnoi","7058522243, 9599117733","medha.ranjan@external.engie.com, shreya.bishnoi@engie.com","EE,CIVIL","PS,PED,RES,STR",7.5
+270,Adzealous Media Pvt. Ltd.,Shalini Maurya,Done ,OPEN,,"Shveta, Madhulika","9810761128, 8708751816",mayank.gupta@adzealous.com,"ALL (notCOE, IT)","EE,ME,CIVIL,CHEM., PH. , MBA",4.6
+271,Om Logistics,Udit ,Done ,OPEN,,Sakshi Sharma,8448896609,sakshi.sharma@omlogistics.co.in,"COE,IT,ECE,ME,PIE",,6
+272,olx,Swapnil,Done ,OPEN,,"Srija Rai, Lipika Tyagi",7387823546,"srija.rai@olx.in, lipika.tyagi1@olx.in","COE,IT",,3.6
+273,Mechartes Researchers Pvt. Ltd.,Ujjawal Chauhan,Done ,OPEN,,Nidhi Srivastava,9560599287,hr@mechartes.com,,STR,5.5
+274,Pavai Infra Geotech,Kartik jaiswal,Done ,OPEN,,Bhava Shruthi A,7395841426,careers@pavaigeotech.com,,geotech.,8
+275,JK Cement,Swapnil Sahu,Done ,OPEN,,Muskan Bansal,9799262530,muskan.bansal@jkcement.com,"ME,CEvil",mba,
+276,GL Bajaj Institute of Technology and Management,Lijenderq,Done ,OPEN,,"Rekha Singh, Ananaya Prem","9211709291, 7543018958","head.hr@glbitm.ac.in, ananya.prem@glbitm.ac.in","Coe, it","COED, mba, mca",
+277,Holtec Consulting Pvt.Ltd.,Deepanshu,Done ,OPEN,,Supreet Singh,9868609252,ssb@holtecnet.com,"ECE,EE,ME,CIVIL","PS,THR, STR",4.45
+278,Nat Habit,Shalini Maurya,Done ,OPEN,,Naveen Singh,7703897083,naven.singh@nathabit.in,ALL,,8
+279,Entab Infotech Pvt. Ltd.,Nehal Sharma,Done ,OPEN,,"Vinni Mathew, Divya verma",8929886952,"hr@entab.in, hrm2@entab.in","COE,IT","COED,ECE,EE,ME,MBA,MCA",6
+280,Vichark Computers Pvt. ltd.,Tarun Yadav,Done ,OPEN,,Dhruvi Parmar,9727813180,Dhruvi.parmar@vichark.in,"COE,IT,ECE","COED,SVLSI,",7
+281,First Source ,Ritesh Bamel,Done ,OPEN,,Shanu Jain ,8287826005,shanu.jain1@firstsource.com,ALL,,8
+282,Korea Railroad Technical Corporation,Kartik jaiswal,Done ,OPEN,,Chetan K R,7756001256,"hr@krtcindia.com, chetan.kr@krtcindia.com",,,6
+283,ZL Tech,Ritesh Bamel,Done ,OPEN,,Geeta,9985836767,gchandana@zlti.com,"COE,IT,ECE,EEME",MCA,10
+284,Insaurance Dekho,Tarun Singh Yadav,Done ,OPEN,,"Abhay Singh Chauhan, Meenakshi Joshi","8297236321, 9910214072",abhay.chauhan@insaurancedekho.com meenakshi.joshi@insurancedekho.com,"COE,IT,ECE,EE","COED,MCA",5
+285,HIKE Education,Nehal Sharma,Done ,OPEN,,Poorvi Gupta,8851291185,poorvi@hikeedu.in,ALL,ALL,7.02
+286,Essar Minmet Ltd.,Neha,Done ,OPEN,,"Purva Salvi, Atish Kumar","7710984515, 9777444841","purva.salvi@essarminmet.co.in, atish.kumar@essarcapital.com","IT,EE,ME,CIVIL",,8
+287,Hexagon R&D India ,Kaushal Tiwari,Done ,OPEN,,Rohan Mallapragada,8712345877,rohan.mallapragada@hexagon.com,,,7.5
+288,MAQ Software,Ritesh Bamel,Done ,OPEN,,Rahul Singh,9963117987,rahulsi@maqsoftware.com,"COE,IT",,7.00-10.00
+289,Fun First Globa Skillers Pvt. Ltd.,Shalini Maurya,Done ,OPEN,,Nagarani M. Dronacharya Amit Gupta,"8976877563, 9769105001","hrd@funfirst.in, agupta@funfirst.in","ECE,EE,ME,PIE",MBA,6
+290,Askiitians Web Pvt. Ltd.,Deepanshu,Done ,OPEN,,"Swati Srivstava, Vaishali Yadavq","9739341112, 9310379771","hr@askiitians.com , vaishali.yadav@askiitians.com",ALL,"ME,CIVIL, PH",6
+291,Bosch Rexroth (India) Pvt. Ltd.,Ujjwal Chauhan,Done ,OPEN,,Disha Ghoda,7778878225,dishap.ghoda@boschrexroth.co.on,,"ECE,EED,ME",7.5
+292,Shigan Quantaum Technologies Ltd.,Ankush,Done ,OPEN,,Vandit Sawhney,9910494259,vandita.sawhney@shigan.com,"ECE,ME",MBA,5
+293,Dana Anand India Pvt. Ltd.,Bhupender,Done ,OPEN,`,Pallavi Gupta,8484933203,pallavi.gupta@dana.com,"EE,ME",,8.00-12.00
+294,Carrier Airconditioning and Regrigeration,Shalini Maurya,Done ,OPEN,,Priyanka Panda,9711612303,priyanka.panda@carrier.com,"ECE,ece",,6.00-8.00
+295,Soul AI,Neha Sharma,Done ,OPEN,,Shreya Thota,9550306890,shreya@soulhq.ai,ALL,ALL,
+296,Dolcera,Shalini Maurya,Done ,OPEN,,Mamtha,9985858019,mamtha.yadav@dolcera.com,,ECE,7
+297,Aquaairx Autonomous Systems Pvt. Ltd,Ritesh Bamel,Done ,OPEN,,Lahari G,6360173021,hiringtalent@aerogo.live,ME,MED,6
+298,,,Done ,OPEN,,,,,,,
+299,,,Done ,OPEN,,,,,,,
+300,HLS ASIA,,Done ,OPEN,,,,,,,
+301,,,Done ,OPEN,,,,,,,
+302,Anand Group,,Done ,OPEN,,,,,,,
+303,NAB Innovations Centre,,Done ,OPEN,,,,,,,
+304,Centilytics,,Done ,OPEN,,,,,,,
+305,TVS Motors,,Done ,OPEN,,,,,,,
+306,BNY Mellon,,Done ,OPEN,,,,,,,
+307,Armorcode,,Done ,,,,,,,,
+308,Brain Enterprises  ,,Done ,,,,,,,,
+309,,,Done ,,,,,,,,
+275,,,Done ,,,,,,,,
+276,Xempla.io,Tarun,Done ,OPEN,,Tisha Guchhait,9741314330,tiasha.guchhait@xempla.io,,,

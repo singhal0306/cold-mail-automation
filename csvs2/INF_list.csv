@@ -1,0 +1,108 @@
+sr_no,company_name,contact_person,contact_no,email_id,stipend
+1,Cadence Design System,Antra Gupta,9599879500,antra@cadence.com,45000
+2,Infineon Technologies India Pvt. Ltd.,"Pooja Chowta, Vidya ","8867742980, 9483276696",chowta.external@infineon.com,40000
+3,NXP Semiconductors,"Shalu Singh, Apoorva Sharma","9826368338, 7230863558","shalu.singh@nxp.com, apoorva.sharma@nxp.com",40000
+4,Siemens EDA (India) Pvt. Ltd.,"Vinita Srivastav, Kritika","7030153515, 8708210957","vinita.srivastav@siemens.com, kritika.nln.ext@siemens.com",40000
+6,Dyeus,Himanshu Maurya@dyeus.co,9506583421,hmaurya@dyeus.co,50000-75000
+7,Basys.ai,"Jie Sun , Sonali Agrawal",8578570400,"support@basys.ai, sonali.a23@basys.ai",30000
+8,Dell Technologies,Sushil bharadwaj,9945705597,sushil_bharadwaj@dell.com,35000
+9,Samsung Semiconductor India Research,"Priyanka Gurus2wamy, Naveen Kumar N","9986006019, 9945280407","priyanka.g@samsung.com, nav.kumar@samsung.com",50000
+10,Stryker,"Neha Taneja, Shashank Paul","9910417888, 9818931910","neha.taneja@stryker.com, shashank.paul@stryker.com",50000
+11,Intel India Ltd,Khushbu Das,9426580254,khushbu.das@intel.com ,40000-45000
+12,Analog Devices,Madhura Sarkar,9742363330,madhura.sarkar@analog.com,45000
+13,Haryana State Pollution Conrtol Board,,,see2hspcb@gmail.com,
+14,STMicroelectronics,Shweta butola,9999965633,shweta.butola@st.com,30000-35000
+15,Marvell Technology,"B. Rishi Kumar Singh, Varun bagesh","9533395696, 8892712955","bondilis@marvell.com, vnagsh@marvell.com",45000
+16,Philips,"Nina Mukherjee, Ravina Raghuwanshi","9212796621, 8828200235","nina.mukherjee@philips.com, ravina.raghuwanshi@philips.com",45000-55000
+17,Varroc Engineering,Isha Vispute,9028554526,isha.vispute@varroc.com,15000-20000
+18,Systra,Meghna Singhee,9873127303,msinghgee@systra.com,15000
+19,Qualcomm,Prachi Pathak,8770112954/8878222061,pracpath@qti.qualcomm.com,45000
+21,AMD,Jayshree Shukla,9884299441,jayashree.shukla@amd.com,40000
+22,Volvo ,Jeyapriya Kumaresan,6364911281,jeyapriya.kumaresan@volvo.com,40000
+23,Copperpod IP,"Anubhav Garg, Purva Sharma",7973929239,"anubhav@copperpodip.com, purva@copperpodip.com",25000
+24,Techture Structures Pvt. Ltd.,"Pooja Parekh, kashvi Hingorani","8085566717, 7507933322",hr@techture.global,12000
+25,Unistring Tech Solutions (UTS),"Vishnu Prasad, Pavani Muddineni","8341787360, 8341108014","vishnuprasad@unistring.com, recruitment@unistring.com",25000-40000
+26,Green Avni Solution LLP,Prakash R,7981677941,hr@greenavni.com,17.5
+27,VK Ready Mix Concrete Pvt. Ltd.,"Nikhil Gupta, Jyoti Khurana","9811641090, 8800495906",vkrmcpl@gamil.com,12000-18000
+28,Outlook Publishing India Group,Bhuwan Thapa,9641817283,bhuwan.thapa@utlookindia.com,
+29,Steradian Semiconductor Pvt. Ltd.,Sheela M,8971747095,hr@steradiansemi.com,30000
+30,Media Tek India Technology Pvt. Ltd.,Amit Kumar,"9999744838, 9870322552",ds_amit.k@mediatek.com,45000
+31,TESCO,Madhushree B,7019479979,madhushree.bylapparaju@tesco.com,50000
+32,Propelld,"Sushma R , Sonia","7411614292, 7204264034","sushma@propelld.com, sonia@propelld.com",25000
+33,BIS,Ankita Vidhyarthi,0120-4670238,nits@bis.gov.in,20000
+34,Synopsys,Asha Ramchandran,7207910978,asha.ramachandran@synopsys.com,45000
+35,Arm Embedded Technology,Kaushal Baghrath,8878037199,kaushal.bhagrath@arm.com,40000
+36,Microchip,Ghanshyam Kasture,8919633108,ghanshyam.kasturi@microchip.com,37000
+37,C-DAC Hyderabad,Jayshree pokale,9767202836,jayshreep@cdac.in,15000
+38,Deep Logic tech (India) Pvt. Ltd.,Harsh Vardhan,9557785444,harsh.vardhan@deeplogictech.com,30000
+39,Media Tek India Technology Pvt. Ltd.,Amit Kumar,"9999744838, 9870322552",ds_amit.k@mediatek.com,45000
+40,Electric PE,Jeshwanth,9731426838,jeshwanth@electricpe.com,30000
+41,Hero Motocorp,Awni Sharma,8800406744,awni.sharma@heromotocorp.com,15000
+42,Bosch Global Software Technologies Pvt. Ltd.,Vinay Ramesh,9945526759,ramesh.vinay@in.bosch.com,35000
+43,Unisys,Preety Kumari,7989138327,pretty.kumari@unisys.com,
+44,KPIT Technologies,"Ujjwal Mane, kalyan Arigela","7405047740, 9963545533","ujwal.mane@kpit.com, kalyan.arigela@kpit.com",35000
+45,Warner Bros Discovery,Denver Andrade,9538414846,denver.andrade@wbd.com,80000
+46,InGnious AI Private Ltd.,"Nachiket Kulkarni, Vikas Soni","8698170964, 8295164181","nachiket@ingnious.in, vikas.soni@ingnious.in",25000
+47,UOLO Edtech Pvt. Ltd.,Garima Jangd,9413160589,garima.jangid@uolo.com,25000
+48,My Ways,"Anisha Gupta, Revati Rastogi","9547124262, 8588081787","anisha.gupta@myways.ai, revati.r@myways.ai",40000
+49,Siemens Industry Software ltd.,"Vinita Srivastav, Kritika","7030153515, 8708210957","vinita.srivastav@siemens.com, kritika.nln.ext@siemens.com",40000
+50,Winzo Games,Rahul Gera,80030039339,rahul.gera@winzogames.com,125000
+51,Steradian Semiconductor Pvt. Ltd.,Sheela M,8971747095,hr@steradiansemi.com,30000
+52,Urban Air Lab,Arpit Mangal,7014343563,arpit.mangal@urbanairlabs.com,8000
+53,Prime Consulting Incorporation,Rushikesh Dive,9028730684,rushikesh@primeconsulting-inc.com,
+54,Western Digital,Ponnanna KP,9148361091,ponnanna.kp@wdc.com,35000
+55,Unistring Tech Solutions (UTS),"Vishnu Prasad, Pavani Muddineni","8341787360, 8341108014","vishnuprasad@unistring.com, recruitment@unistring.com",25000-40000
+56,NeenOpal Inc.,"Lavi Srivastava, Betsy. T Abraham","8630806108, 9773692198","lavi.srivastava@neenopal.com, betsy.abraham@neenopal.com",15000
+57,Trilogy Innovation (Summer),Archana Ghei,,archana.ghei@trilogy.com,75000
+58,Dana Anand India Pvt. Ltd.,"Vikas, Sanjay Jagatap",8792183888. 9986868855,"vikas.kudla@dana.com, sanjay.jagatap@dana.com",25000
+59,Statcon Electronics India Ltd. & Statcon Powtech Private ld.,Manoj Kumar,7290074333,manoj.kumar2sindia.co.in,
+60,CETPA Infotech pvt. Ltd.,Shumaila,9911021387,shumaila@cetpainfotech.com,10000
+61,Microsoft India Pvt. ltd.,Blassom Pinto,9739681432,blossompinto@microsoft.com,125000
+62,Cadence Design System,Chetan B T,9742322055,chetanb@cadence.com,45000
+63,The Affordable Organic Store,"Ishika Garg, Amruta Krishna","9720080300, 6309891941","ishika@theaffordableorganicstore.com, amrutataos@gmail.com",
+65,Poshway Consultants & Co. ,Shivani Kadam,8076719516,hr@poshwayconsultants.com,8000
+66,Probo Media Tech,Dhwani Ghoda,8160364283,dhwani@probo.in,25000
+67,Cadence Design System,Chetan B T,9742322055,chetanb@cadence.com,45000
+68,Amit Engineers Nimbua,"Dr. Vikas, Mr. Deepak Dangi","9779991106, 9992755522","vikas@aerail.in, projects@amitengineersbaddi.com",25000
+69,Genpact,Ramanathan,9659230778,ramanathan.subramaniyan@genpact.com,25000
+70,Toshiba Software India Pvt. Ltd.,Lokesh Kumar,9980513170,lokeshkumar.chandrasekar@toshiba-tsip.com,50000
+71,Structured,Varun Singh,8077485948,hr@getstructured.tech,85000
+72,BIS,Ankita Vidhyarthi,0120-4670238,nits@bis.gov.in,20000
+73,Infoedge,Ishita Gupta,8081226785,ishita.gupta@naukri.com,60000
+74,Balkn ID,Sabbu Rama,,sabbu@balkan.id,25000-80000
+75,World Compliance Technology,"Uma Singh, Jagdish Prasad","9811737228, 9953324811","uma.singh@ocr-inc.com, jagdish.prasad@ocr-inc.com",20000
+76,StockGRO,Felicia Mendes,8433854953,felicia@stockgro.com,25000
+77,Medtronics Engineering and Innovation Center,Malla Alina,9515867976,alina.malla@medtronics.com,55000
+78,Autoliv India Pvt. Ltd.,"Sunil Bedre, mishel Alva","9591079001, 8073462237","sunil.bedre@autoliv.com, mishel.alva@autoliv.com",25000
+79,AB in Dev,Abhinav Kumar,7829659053,abhinav.kumar@in.ab-inbev.com,50000
+80,Competishun,Yashika Saini,9354596659,yashika@teamcompetishun.com,20000
+81,Volvo Eicher Commercial Vehicles Ltd.,"Vaishali Samant, Chhavi Bhatia","70292015803, 9899184863","vsamant2@vecv.in, cbhatia1@vect.in",30000
+82,Wabtech,Sneha Babbar,9066667589,sneha.babbar@wabtec.com,30000-35000
+83,Texas Instruments,Astha,7349782791,a-astha@ti.com,60000
+84,Orangewood Labs,Ravinder Kuamr,7303807779,ravinder.k@orangewood.co,20000
+85,Fantaclaus Technologies Pvt. Ltd.,"Sukrit Goel, Swati jain Goel","9005332211, 9717597378","sukrit@fantaclaus.com, swati@fantaclaus.com",25000
+86,AMD,Jayashree Shukla,9884299441,jayashree.shukla@amd.com,35000
+87,Fluor Daniel India  Pvt. Ltd.,Disha Singh,9810201628,disha.singh@fluor.com,25000
+88,HSBC (EDPI),Aswinraj,7907433541,ashwinraj.puthalath@hsbc.co.in,65000
+89,VK Ready Mix Concrete Pvt. Ltd.,"Nikhil Gupta, Jyoti Khurana","9811641090, 8800495906",vkrmcpl@gamil.com,18000
+90,Semifront Technology Pvt. Ltd.,Adhikram Chatterjee,8777507648,adhikramc@exchange.semifront.com,15000
+91,Quantel.in (vizibly technologies Pvt. lTd.,"Lucky Rohill, Kanakshree Devvanshi","9821889140, 8168016426","luchy@quantel.on, kanakshree@quantel.on",10000
+92,Tetrahedron Manufacturing Service Pvt. ltd.,Priya Dwivedi,7873092278,"hrd@tetrahedron.in, hrd.tetrahedron@gmail.com",
+93,Marvell Technology,"B. Rishi Kumar Singh, Varun bagesh","9533395696, 8892712955","bondilis@marvell.com, vnagsh@marvell.com",35000
+94,Yum India Technology Solutions Pvt. Ld.,"Kritika Bhutani, Damanpreet Kaur","9582031203, 7505540035","kritika.bhutani@yum.com, damanpreet.kaur@yum.com",35000
+95,Metvy,Akshita Agarwal,7905373443,humanresource@metvy.com,
+97,Xeed.io,Anirudh,9538285492,anirudh.kasturi@xeed.io,15000
+98,BIS,,,nits@bis.gov.in,20000
+99,CNH Industrial,Kavya Tayal,9650427015,kavya.tayal@cnhind.com,25000
+100,Vizexpert,"Dimple Gulati, Vaibhav bansal","9560513758, 8860786252","dimple@vizexperts.com, vaibhav@vizexperts.com",
+101,NeenOpal Inc.,"Lavi Srivastava, Betsy. T Abraham","8630806108, 9773692198","lavi.srivastava@neenopal.com, betsy.abraham@neenopal.com", 
+102,Nation with Namo,Sakshi Garg,8130417311,pplications@nationwithnamo.com,50000
+103,Soben Internaltional LLP,"Rakshti Seth, Hianshu Raj","9971577654, 8755713105","rakshit.seth@sobencc.com, himanshu@sobencc.com",15000
+104,Alorb Technologies Pvt. Ltd.,Javed Seik,9730694979,connect@alorbtech.com,Unpaid
+105,Electric PE,Jeshwanth,9731426838,jeshwanth@electricpe.com,30000
+106,Indo Farem Tractor Equipment,Miss Zarin,7291996744,zarina@sugslloyds.com,12500
+107,TechX Consulting Soluting Pvt. Ltd.,"Tushar Goyal , Amarjeet Kaur","9717674965, 9560620329","tushar.goyal@techx-consulting.com, amarjeet.kaur@techx-consulting.com",10000
+108,Medibuddy,"Sonica Chavan A, Jayanta Ghosh","9986065090, 9986341308","sonica.chavan@medibuddy.in, jayanta.ghosh@medibuddy.in",
+109,Metricbooks,Himanshu Maurya,9506583421,"himanshu.maurvya24@gmail.com, hiring@metrickbooks.in",80k-1.5l
+110,Mytailmate,"Pankaj, Anuj","8800239729, 9718479961","pankaj@mytailmate.com, anuj@mytailmate.com",20000
+112,Realty Smartz Pvt. Ltd.,Anchal Rathee,8826069207,anchal.rathee@realtysmartz.in,3000
