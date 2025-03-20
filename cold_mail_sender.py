@@ -5,7 +5,7 @@ from email.mime.application import MIMEApplication
 import pandas as pd
 from mail_templates import mern_cold_mail
 
-sender_password = "avtm sscz xned tdjn"
+sender_password = ""
 
 smtp_server = 'smtp.gmail.com'
 smtp_port = 465
